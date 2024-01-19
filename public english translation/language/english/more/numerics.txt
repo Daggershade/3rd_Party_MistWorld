@@ -1,0 +1,194 @@
+1th
+1st
+
+2th
+2nd
+
+3th
+3rd
+
+21th
+21st
+
+22th
+22nd
+
+23th
+23rd
+
+31th
+31st
+
+32th
+32nd
+
+33th
+33rd
+
+41th
+41st
+
+42th
+42nd
+
+43th
+43rd
+
+51th
+51st
+
+52th
+52nd
+
+53th
+53rd
+
+61th
+61st
+
+62th
+62nd
+
+63th
+63rd
+
+71th
+71st
+
+72th
+72nd
+
+73th
+73rd
+
+81th
+81st
+
+82th
+82nd
+
+83th
+83rd
+
+91th
+91st
+
+92th
+92nd
+
+93th
+93rd
+
+{d}01th
+{sub2{$1}sub2}01st
+
+{d}02th
+{sub2{$1}sub2}02nd
+
+{d}03th
+{sub2{$1}sub2}03rd
+
+{d}21th
+{sub2{$1}sub2}21st
+
+{d}22th
+{sub2{$1}sub2}22nd
+
+{d}23th
+{sub2{$1}sub2}23rd
+
+{d}31th
+{sub2{$1}sub2}31st
+
+{d}32th
+{sub2{$1}sub2}32nd
+
+{d}33th
+{sub2{$1}sub2}33rd
+
+{d}41th
+{sub2{$1}sub2}41st
+
+{d}42th
+{sub2{$1}sub2}42nd
+
+{d}43th
+{sub2{$1}sub2}43rd
+
+{d}51th
+{sub2{$1}sub2}51st
+
+{d}52th
+{sub2{$1}sub2}52nd
+
+{d}53th
+{sub2{$1}sub2}53rd
+
+{d}61th
+{sub2{$1}sub2}61st
+
+{d}62th
+{sub2{$1}sub2}62nd
+
+{d}63th
+{sub2{$1}sub2}63rd
+
+{d}71th
+{sub2{$1}sub2}71st
+
+{d}72th
+{sub2{$1}sub2}72nd
+
+{d}73th
+{sub2{$1}sub2}73rd
+
+{d}81th
+{sub2{$1}sub2}81st
+
+{d}82th
+{sub2{$1}sub2}82nd
+
+{d}83th
+{sub2{$1}sub2}83rd
+
+{d}91th
+{sub2{$1}sub2}91st
+
+{d}92th
+{sub2{$1}sub2}92nd
+
+{d}93th
+{sub2{$1}sub2}93rd
+
+This is your {s} purchase today; Need to pay {d} diamonds
+This is your {sub2{$1}sub2} purchase today; Need to pay $2 diamonds
+
+You win {d} times, Attend {d} times, are {s}
+You won $1 times, Attended $2 times, ranking you in {sub2{$3}sub2} place
+
+You are currently ranked {s}
+You are currently ranked {sub2{$1}sub2}
+
+Your own ranking is {s}; {s} the prize: {s}
+Your own ranking is {sub2{$1}sub2}; {sub2{$2}sub2} the prize: {sub2{$3}sub2}
+
+1thth: 1 {s} Gold medal, {s} and {d} battlefield merit points
+1st: 1 {sub2{$1}sub2} Gold medal, {sub2{$2}sub2} and $3 battlefield merit points
+
+{s}-{s}: 1 {s} silver medal, {s} and {d} battlefield merit points
+{sub2{$1}sub2}-{sub2{$2}sub2}: 1 {sub2{$3}sub2} silver medal, {sub2{$4}sub2} and $5 battlefield merit points
+
+{s}-60th: 1 {s} medal, {s} and {d} battlefield merit points
+{sub2{$1}sub2}-60th: 1 {sub2{$2}sub2} medal, {sub2{$3}sub2} and $4 battlefield merit points
+
+{s}-100th: 1 {s} medal, {s} and {d} battlefield merit points
+{sub2{$1}sub2}-100th: 1 {sub2{$2}sub2} medal, {sub2{$3}sub2} and $4 battlefield merit points
+
+{s}-150th: {s}, and {d} battlefield merit points
+{sub2{$1}sub2}-150th: {sub2{$2}sub2}, and $3 battlefield merit points
+
+{s}-200th: {s}, and {d} battlefield merit points
+{sub2{$1}sub2}-200th: {sub2{$2}sub2}, and $3 battlefield merit points
+
+{s} place in the level {d} {s} Arena Fight, {s}, the prize is {s} battlefield merit points
+{sub2{$1}sub2} place in the level $2 {sub2{$3}sub2} Arena Fight, {sub2{$4}sub2}, the prize is {sub2{$5}sub2} battlefield merit points

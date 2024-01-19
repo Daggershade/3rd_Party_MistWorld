@@ -1,0 +1,5 @@
+activity envoys
+activity envoy
+
+{c} wants to accept you as apprentice;{s};{s}; level {d}
+$1 wants to take you as an apprentice;{sub2{$2}sub2};{sub2{$3}sub2}; level $4

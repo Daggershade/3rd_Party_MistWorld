@@ -1,0 +1,47 @@
+Daily Gang Construction, {s} time, get Active {d}
+Daily Gang Construction, {sub2{$1}sub2} time, get Active {sub2{$2}sub2}
+
+Complete different gang missions per day, {s} time, get Active {d}
+Complete different gang missions per day, {sub2{$1}sub2} time, get Active $2
+
+donation per day, {s} time, get Active {d}
+donation per day, {sub2{$1}sub2} time, get Active $2
+
+system ;Has become an allied gang with {s}
+system ;this gang is now allied with {sub2{$1}sub2}
+
+{s};The {s} Gang Tournament bidding has begun. Gangs wanting to participate can sign up at the tournament messenger.
+{sub2{$1}sub2};The {sub2{$2}sub2} Gang Tournament bidding has begun. Gangs wanting to participate can sign up at the tournament messenger.
+
+{s};The {s} Gang Tournament bidding will end in {d} hours and {d} minutes. For gangs who want to participate, please sign up at the tournament messenger before the bidding end.
+{sub2{$1}sub2};The {sub2{$2}sub2} Gang Tournament bidding will end in $3 hours and $4 minutes. Any gangs who want to participate, please sign up at the tournament messenger before the bidding ends.
+
+{s};The {s} Gang Tournament is over, congratulations to {s} gang for winning the championship
+{sub2{$1}sub2};The {sub2{$2}sub2} Gang Tournament is over, congratulations to $3 gang for winning the championship
+
+broadcast ;{c} joined a gang
+broadcast ;$1 joined the gang!
+
+You are such a helpful person, just take the wound-healing powder, no need to give money! All parts of the world have become very dangerous, and it is also my mission to save the sick and save the sick.
+You are such a kind person, just take the wound-healing powder, no charge! The whole world has become very dangerous, and I will do all I can to heal the sick and save the dying.
+
+Warrior, there have been giant locusts that can attack people in the farmland recently, which has made me afraid to water the crops. Can you help me water the farmland behind?
+Warrior, there have been giant locusts attacking people in the farmland recently, which has made me afraid to water the crops. Can you help me water them and kill the insects?
+
+Then please, take this iron bucket, which can be watered after scooping up pond water on the farm. I'm letting you into the farm.
+Then please, take this iron bucket, which can be used to water the crops after scooping up pond water. And I'll let you into the farm.
+
+Accept the bucket and go to
+Accept the bucket and enter the farmlands.
+
+Rewards for players of the {s} gang:{s}
+Rewards for players of the {sub2{$1}sub2} gang:{sub2{$2}sub2}
+
+{s}; gang reward {d} {s} in {s}
+{sub1{$1}sub1}; gang reward $2 {sub2{$3}sub2} in $4
+
+{s};gang reward one  {s} in {s}
+{sub1{$1}sub1};gang reward one  {sub2{$2}sub2} in $3
+
+{d} gangs have participated in the {s} gang tournament
+$1 gangs have participated in the {sub2{$2}sub2} gang tournament

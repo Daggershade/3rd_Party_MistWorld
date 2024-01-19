@@ -1,0 +1,8 @@
+{d};{d} {s}Limit access to {d}
+$1;$2 {sub2{$3}sub2} Limit access to $4
+
+{d};{s};{s} 
+$1;{sub2{$2}sub2};{sub2{$3}sub2} 
+
+{d};{s};{s} ; bound
+$1;{sub2{$2}sub2};{sub2{$3}sub2} ; bound

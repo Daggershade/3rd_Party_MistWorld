@@ -1,0 +1,53 @@
+{s};{s}: Damn you, {c}, Don't let me see you in the great forest next time!
+{sub1{$1}sub1};{sub2{$2}sub2}: Damn you, $3, Don't let me see you in the great forest again!
+
+{s};{s}: Damn {c} doesn't even let go of rare and protected animals!
+{sub1{$1}sub1};{sub2{$2}sub2}: Damn $3 hunts even rare and protected animals!
+
+{s};{s}: Damn {c}, do you think this is the only robot I have
+{sub1{$1}sub1};{sub2{$2}sub2}: Foolish {c}, do you think this is the only robot I have?
+
+{s};{c} got the  {s}; {s}  
+{sub2{$1}sub2};$2 got the  {sub2{$3}sub2}; {sub2{$4}sub2}  
+
+{s};{c} and got {d} {s}
+{sub1{$1}sub1};$2 got $3 {sub2{$4}sub2}
+
+{s};{c} got the {s}; {s}  
+{sub1{$1}sub1};$2 got the {sub2{$3}sub2}; {sub2{$4}sub2}
+
+{s};{c}'s team  and got {d} {s}
+{sub1{$1}sub1};$2's team got $3 {sub2{$4}sub2}
+
+{s};{c} in competition  and got {s}
+{sub2{$1}sub2};$2 got {sub2{$3}sub2} in the competition.
+
+apply  to take him as your pupil
+Apply to take them as your pupil.
+
+Got pet {s}
+Got pet {sub2{$1}sub2}
+
+Resurrection Crystal and
+Resurrection Crystal,
+
+Memory Butterfly and
+Memory Butterfly,
+
+Firecracker and
+Firecracker,
+
+New Year Greeting Card and
+New Year Greeting Card,
+
+Chocolate ice cream and
+Chocolate ice cream,
+
+Butter ice cream and
+Butter ice cream,
+
+{s};{c} used one New Year Gift Box, send {c} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s}
+{sub2{$1}sub2};$2 used a New Year's Gift Box, sent $3 $4 {sub2{$5}sub2} $6 {sub2{$7}sub2} $8 {sub2{$9}sub2} $10 {sub2{$11}sub2} $12 {sub2{$13}sub2} $14 {sub2{$15}sub2} and $16 {sub2{$17}sub2}
+
+{s};{c} used one Beautiful Gift Box, send {c} {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s}
+{sub2{$1}sub2};$2 used a Beautiful Gift Box, sent $3 $4 {sub2{$5}sub2}, $6 {sub2{$7}sub2}, $8 {sub2{$9}sub2}, $10 {sub2{$11}sub2}, and $12 {sub2{$13}sub2}.

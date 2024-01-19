@@ -1,0 +1,1775 @@
+{c} got the  {s}; {s}  
+$1 got the  {sub2{$2}sub2}; {sub2{$3}sub2}  
+
+tulle cape;{s}
+tulle cape;{sub2{$1}sub2}
+
+iron sword;{s}
+iron sword;{sub2{$1}sub2}
+
+iron hammer;{s}
+iron hammer;{sub2{$1}sub2}
+
+dagger;{s}
+dagger;{sub2{$1}sub2}
+
+wooden bow;{s}
+wooden bow;{sub2{$1}sub2}
+
+Ivy Staff;{s}
+Ivy Staff;{sub2{$1}sub2}
+
+Ivy Scepter;{s}
+Ivy Scepter;{sub2{$1}sub2}
+
+bronze helmet;{s}
+bronze helmet;{sub2{$1}sub2}
+
+Bronze Shoulders;{s}
+Bronze Pauldrons;{sub2{$1}sub2}
+
+bronze armor;{s}
+bronze armor;{sub2{$1}sub2}
+
+Bronze Belt;{s}
+Bronze Belt;{sub2{$1}sub2}
+
+Bronze Boots;{s}
+Bronze Boots;{sub2{$1}sub2}
+
+Bronze Leggings;{s}
+Bronze Leggings;{sub2{$1}sub2}
+
+gold ring (left);{s}
+gold ring (left);{sub2{$1}sub2}
+
+gold ring (right);{s}
+gold ring (right);{sub2{$1}sub2}
+
+silk hat;{s}
+silk hat;{sub2{$1}sub2}
+
+silk cape;{s}
+silk cape;{sub2{$1}sub2}
+
+silk robe;{s}
+silk robe;{sub2{$1}sub2}
+
+silk belt;{s}
+silk belt;{sub2{$1}sub2}
+
+silk boots;{s}
+silk boots;{sub2{$1}sub2}
+
+silk pants;{s}
+silk pants;{sub2{$1}sub2}
+
+jade ring (left);{s}
+jade ring (left);{sub2{$1}sub2}
+
+jade ring (right);{s}
+jade ring (right);{sub2{$1}sub2}
+
+Sword of Fighter;{s}
+Sword of Fighter;{sub2{$1}sub2}
+
+machete of Berserker;{s}
+machete of Berserker;{sub2{$1}sub2}
+
+Blade of Killer;{s}
+Blade of Killer;{sub2{$1}sub2}
+
+Bow of chaser;{s}
+Bow of chaser;{sub2{$1}sub2}
+
+Staff of Wisdom;{s}
+Staff of Wisdom;{sub2{$1}sub2}
+
+Staff of Nature;{s}
+Staff of Nature;{sub2{$1}sub2}
+
+Scepter of Mercy;{s}
+Scepter of Mercy;{sub2{$1}sub2}
+
+Scepter of Bones;{s}
+Scepter of Bones;{sub2{$1}sub2}
+
+fighter Helm;{s}
+fighter Helm;{sub2{$1}sub2}
+
+fighter Shoulders;{s}
+fighter Pauldrons;{sub2{$1}sub2}
+
+fighter Armor;{s}
+fighter Armor;{sub2{$1}sub2}
+
+fighter Waistguard;{s}
+fighter Waistguard;{sub2{$1}sub2}
+
+fighter Boots;{s}
+fighter Boots;{sub2{$1}sub2}
+
+fighter Legplates;{s}
+fighter Legplates;{sub2{$1}sub2}
+
+fighter Bracers;{s}
+fighter Bracers;{sub2{$1}sub2}
+
+fighter ring (left);{s}
+fighter ring (left);{sub2{$1}sub2}
+
+fighter ring (right);{s}
+fighter ring (right);{sub2{$1}sub2}
+
+Berserker Helm;{s}
+Berserker Helm;{sub2{$1}sub2}
+
+Berserker Shoulders;{s}
+Berserker Pauldrons;{sub2{$1}sub2}
+
+Berserker Armor;{s}
+Berserker Armor;{sub2{$1}sub2}
+
+Berserker Waistguard;{s}
+Berserker Waistguard;{sub2{$1}sub2}
+
+Berserker Boots;{s}
+Berserker Boots;{sub2{$1}sub2}
+
+Berserker Legplates;{s}
+Berserker Legplates;{sub2{$1}sub2}
+
+Berserker Bracers;{s}
+Berserker Bracers;{sub2{$1}sub2}
+
+Berserker Ring (Left);{s}
+Berserker Ring (Left);{sub2{$1}sub2}
+
+Berserker Ring (right);{s}
+Berserker Ring (right);{sub2{$1}sub2}
+
+killer Mask;{s}
+killer Mask;{sub2{$1}sub2}
+
+killer Cloak;{s}
+killer Cloak;{sub2{$1}sub2}
+
+killer Armor;{s}
+killer Armor;{sub2{$1}sub2}
+
+killer Waistguard;{s}
+killer Waistguard;{sub2{$1}sub2}
+
+killer Boots;{s}
+killer Boots;{sub2{$1}sub2}
+
+killer Leggings;{s}
+killer Leggings;{sub2{$1}sub2}
+
+killer Gloves;{s}
+killer Gloves;{sub2{$1}sub2}
+
+Killing Ring (Left);{s}
+Killing Ring (Left);{sub2{$1}sub2}
+
+Killing Ring (Right);{s}
+Killing Ring (Right);{sub2{$1}sub2}
+
+chaser Hat;{s}
+chaser Hat;{sub2{$1}sub2}
+
+chaser Cloak;{s}
+chaser Cloak;{sub2{$1}sub2}
+
+chaser jacket;{s}
+chaser jacket;{sub2{$1}sub2}
+
+chaser Waistguard;{s}
+chaser Waistguard;{sub2{$1}sub2}
+
+chaser Riding Boots;{s}
+chaser Riding Boots;{sub2{$1}sub2}
+
+chaser Leather Pants;{s}
+chaser Leather Pants;{sub2{$1}sub2}
+
+chaser Gauntlets;{s}
+chaser Gauntlets;{sub2{$1}sub2}
+
+Eagle eye ring (left);{s}
+Eagle eye ring (left);{sub2{$1}sub2}
+
+Eagle eye ring (right);{s}
+Eagle eye ring (right);{sub2{$1}sub2}
+
+Wisdom Hat;{s}
+Wisdom Hat;{sub2{$1}sub2}
+
+magic from Wisdom;{s}
+Magical Wisdom;{sub2{$1}sub2}
+
+Wisdom Cloak;{s}
+Wisdom Cloak;{sub2{$1}sub2}
+
+Wisdom Robe;{s}
+Wisdom Robe;{sub2{$1}sub2}
+
+Wisdom Belt;{s}
+Wisdom Belt;{sub2{$1}sub2}
+
+Wisdom Boots;{s}
+Wisdom Boots;{sub2{$1}sub2}
+
+Wisdom Pants;{s}
+Wisdom Pants;{sub2{$1}sub2}
+
+Wisdom bracelet;{s}
+Wisdom bracelet;{sub2{$1}sub2}
+
+Wisdom Ring (left);{s}
+Wisdom Ring (left);{sub2{$1}sub2}
+
+Wisdom Ring (right);{s}
+Wisdom Ring (right);{sub2{$1}sub2}
+
+colorful wreath;{s}
+colorful wreath;{sub2{$1}sub2}
+
+Leaf wings;{s}
+Leaf wings;{sub2{$1}sub2}
+
+green robe;{s}
+green robe;{sub2{$1}sub2}
+
+vine Belt;{s}
+vine Belt;{sub2{$1}sub2}
+
+lotus Boots;{s}
+lotus Boots;{sub2{$1}sub2}
+
+green hakama;{s}
+green hakama;{sub2{$1}sub2}
+
+nature bracelet;{s}
+nature bracelet;{sub2{$1}sub2}
+
+nature ring (left);{s}
+nature ring (left);{sub2{$1}sub2}
+
+nature ring (right);{s}
+nature ring (right);{sub2{$1}sub2}
+
+charity Hat;{s}
+charity Hat;{sub2{$1}sub2}
+
+benevolence Cloak;{s}
+benevolence Cloak;{sub2{$1}sub2}
+
+Fraternity Robe;{s}
+Fraternity Robe;{sub2{$1}sub2}
+
+Kindness Girdle;{s}
+Kindness Girdle;{sub2{$1}sub2}
+
+Compassion Boots;{s}
+Compassion Boots;{sub2{$1}sub2}
+
+Fraternity Leggings;{s}
+Fraternity Leggings;{sub2{$1}sub2}
+
+loving Bracelet;{s}
+loving Bracelet;{sub2{$1}sub2}
+
+loving ring (left);{s}
+loving ring (left);{sub2{$1}sub2}
+
+loving ring (right);{s}
+loving ring (right);{sub2{$1}sub2}
+
+Skull Mask;{s}
+Skull Mask;{sub2{$1}sub2}
+
+Corpse Cloak;{s}
+Corpse Cloak;{sub2{$1}sub2}
+
+Carrion Tabard;{s}
+Carrion Tabard;{sub2{$1}sub2}
+
+shroud belt;{s}
+shroud belt;{sub2{$1}sub2}
+
+Zombie Boots;{s}
+Zombie Boots;{sub2{$1}sub2}
+
+Skeleton Leggings;{s}
+Skeleton Leggings;{sub2{$1}sub2}
+
+Bone Bracelet;{s}
+Bone Bracelet;{sub2{$1}sub2}
+
+Bone Ring (left);{s}
+Bone Ring (left);{sub2{$1}sub2}
+
+Bone Ring (right);{s}
+Bone Ring (right);{sub2{$1}sub2}
+
+Ocean Roaring;{s}
+Ocean Roaring;{sub2{$1}sub2}
+
+Mountain Crushing;{s}
+Mountain Crushing;{sub2{$1}sub2}
+
+Shadow Kissing;{s}
+Shadow Kissing;{sub2{$1}sub2}
+
+Wind Dancing;{s}
+Wind Dancing;{sub2{$1}sub2}
+
+Ice Sighing;{s}
+Ice Sighing;{sub2{$1}sub2}
+
+Fire Enveloping;{s}
+Fire Enveloping;{sub2{$1}sub2}
+
+Light Weaving;{s}
+Light Weaving;{sub2{$1}sub2}
+
+Soul Sucking;{s}
+Soul Sucking;{sub2{$1}sub2}
+
+Fencer helmet;{s}
+Fencer helmet;{sub2{$1}sub2}
+
+Fencer's Heart;{s}
+Fencer's Heart;{sub2{$1}sub2}
+
+Fencer Shoulder Guard;{s}
+Fencer Shoulder Guard;{sub2{$1}sub2}
+
+Fencer Armor;{s}
+Fencer Armor;{sub2{$1}sub2}
+
+Fencer waist guard;{s}
+Fencer waist guard;{sub2{$1}sub2}
+
+Fencer boots;{s}
+Fencer boots;{sub2{$1}sub2}
+
+Fencer Legplates;{s}
+Fencer Legplates;{sub2{$1}sub2}
+
+Fencer Bracers;{s}
+Fencer Bracers;{sub2{$1}sub2}
+
+Fencer Ring (Left);{s}
+Fencer Ring (Left);{sub2{$1}sub2}
+
+Fencer Ring (Right);{s}
+Fencer Ring (Right);{sub2{$1}sub2}
+
+Gladiator Helmet;{s}
+Gladiator Helmet;{sub2{$1}sub2}
+
+Pulse of Gladiator;{s}
+Pulse of Gladiator;{sub2{$1}sub2}
+
+Gladiator Shoulders;{s}
+Gladiator Pauldrons;{sub2{$1}sub2}
+
+Gladiator Armor;{s}
+Gladiator Armor;{sub2{$1}sub2}
+
+Gladiator Waistguard;{s}
+Gladiator Waistguard;{sub2{$1}sub2}
+
+Gladiator Legplates;{s}
+Gladiator Legplates;{sub2{$1}sub2}
+
+Gladiator Bracers;{s}
+Gladiator Bracers;{sub2{$1}sub2}
+
+Gladiator ring (Left);{s}
+Gladiator ring (Left);{sub2{$1}sub2}
+
+Gladiator ring (Right);{s}
+Gladiator ring (Right);{sub2{$1}sub2}
+
+Tearer mask;{s}
+Tearer mask;{sub2{$1}sub2}
+
+Judgment Of Tearer;{s}
+Judgment Of Tearer;{sub2{$1}sub2}
+
+tearer suit;{s}
+tearer suit;{sub2{$1}sub2}
+
+tearer Belt;{s}
+tearer Belt;{sub2{$1}sub2}
+
+tearer Leggings;{s}
+tearer Leggings;{sub2{$1}sub2}
+
+tearer Gloves;{s}
+tearer Gloves;{sub2{$1}sub2}
+
+tearer Ring (Left);{s}
+tearer Ring (Left);{sub2{$1}sub2}
+
+tearer Ring (Right);{s}
+tearer Ring (Right);{sub2{$1}sub2}
+
+Windrunner Hood;{s}
+Windrunner Hood;{sub2{$1}sub2}
+
+Windrunner's Harvest;{s}
+Windrunner's Harvest;{sub2{$1}sub2}
+
+Windrunner Armor;{s}
+Windrunner Armor;{sub2{$1}sub2}
+
+Windrunner Belt;{s}
+Windrunner Belt;{sub2{$1}sub2}
+
+Windrunner Leather Pants;{s}
+Windrunner Leather Pants;{sub2{$1}sub2}
+
+Windrunner Gauntlets;{s}
+Windrunner Gauntlets;{sub2{$1}sub2}
+
+Windrunner ring (Left);{s}
+Windrunner ring (Left);{sub2{$1}sub2}
+
+Windrunner ring (Right);{s}
+Windrunner ring (Right);{sub2{$1}sub2}
+
+Freezing cap;{s}
+Freezing cap;{sub2{$1}sub2}
+
+Freezing pendant;{s}
+Freezing pendant;{sub2{$1}sub2}
+
+Freezing Robe;{s}
+Freezing Robe;{sub2{$1}sub2}
+
+Freezing Belt;{s}
+Freezing Belt;{sub2{$1}sub2}
+
+Freezing Leggings;{s}
+Freezing Leggings;{sub2{$1}sub2}
+
+Freezing Bracelet;{s}
+Freezing Bracelet;{sub2{$1}sub2}
+
+Freezing ring (Left);{s}
+Freezing ring (Left);{sub2{$1}sub2}
+
+Freezing ring (Right);{s}
+Freezing ring (Right);{sub2{$1}sub2}
+
+Flaming headband;{s}
+Flaming headband;{sub2{$1}sub2}
+
+Flaming Pendant;{s}
+Flaming Pendant;{sub2{$1}sub2}
+
+Flaming Robe;{s}
+Flaming Robe;{sub2{$1}sub2}
+
+Flaming Belt;{s}
+Flaming Belt;{sub2{$1}sub2}
+
+Flaming Leggings;{s}
+Flaming Leggings;{sub2{$1}sub2}
+
+Flaming Bracelet;{s}
+Flaming Bracelet;{sub2{$1}sub2}
+
+Flaming ring (Left);{s}
+Flaming ring (Left);{sub2{$1}sub2}
+
+Flaming ring (Left);{s}
+Flaming ring (Left);{sub2{$1}sub2}
+
+Radiant Hood;{s}
+Radiant Hood;{sub2{$1}sub2}
+
+Radiant Pendant;{s}
+Radiant Pendant;{sub2{$1}sub2}
+
+Radiant Tabard;{s}
+Radiant Tabard;{sub2{$1}sub2}
+
+Radiant Belt;{s}
+Radiant Belt;{sub2{$1}sub2}
+
+Radiant Leggings;{s}
+Radiant Leggings;{sub2{$1}sub2}
+
+Radiant Bracelet;{s}
+Radiant Bracelet;{sub2{$1}sub2}
+
+Radiant Ring (Left);{s}
+Radiant Ring (Left);{sub2{$1}sub2}
+
+Radiant Ring (Right);{s}
+Radiant Ring (Right);{sub2{$1}sub2}
+
+Ghost Mask;{s}
+Ghost Mask;{sub2{$1}sub2}
+
+Ghost Pendant;{s}
+Ghost Pendant;{sub2{$1}sub2}
+
+Ghost Robe;{s}
+Ghost Robe;{sub2{$1}sub2}
+
+Ghost Belt;{s}
+Ghost Belt;{sub2{$1}sub2}
+
+Ghost Leggings;{s}
+Ghost Leggings;{sub2{$1}sub2}
+
+Ghost Bracelet;{s}
+Ghost Bracelet;{sub2{$1}sub2}
+
+Ghost Ring (Left);{s}
+Ghost Ring (Left);{sub2{$1}sub2}
+
+Ghost Ring (Right);{s}
+Ghost Ring (Right);{sub2{$1}sub2}
+
+Solemn Oath;{s}
+Solemn Oath;{sub2{$1}sub2}
+
+Savage invader;{s}
+Savage invader;{sub2{$1}sub2}
+
+Grief Bringer;{s}
+Grief Bringer;{sub2{$1}sub2}
+
+Mutant Slayer;{s}
+Mutant Slayer;{sub2{$1}sub2}
+
+Frost Sorrow;{s}
+Frost Sorrow;{sub2{$1}sub2}
+
+Scorching Torch;{s}
+Scorching Torch;{sub2{$1}sub2}
+
+Praying seraph;{s}
+Praying seraph;{sub2{$1}sub2}
+
+Griffin Claw;{s}
+Griffin Claw;{sub2{$1}sub2}
+
+Honor Pendant;{s}
+Honor Pendant;{sub2{$1}sub2}
+
+Honor Armor;{s}
+Honor Armor;{sub2{$1}sub2}
+
+Honor Legplates;{s}
+Honor Legplates;{sub2{$1}sub2}
+
+Honorable Bracers;{s}
+Honorable Bracers;{sub2{$1}sub2}
+
+Honor Ring (Left);{s}
+Honor Ring (Left);{sub2{$1}sub2}
+
+Honor Ring (Right);{s}
+Honor Ring (Right);{sub2{$1}sub2}
+
+Barbarian Pendant;{s}
+Barbarian Pendant;{sub2{$1}sub2}
+
+Barbarian Heavy Armor;{s}
+Barbarian Heavy Armor;{sub2{$1}sub2}
+
+Barbarian Waistguard;{s}
+Barbarian Waistguard;{sub2{$1}sub2}
+
+Barbarian Boots;{s}
+Barbarian Boots;{sub2{$1}sub2}
+
+Barbarian Legplates;{s}
+Barbarian Legplates;{sub2{$1}sub2}
+
+Barbarian Bracers;{s}
+Barbarian Bracers;{sub2{$1}sub2}
+
+Barbarian Ring (Left);{s}
+Barbarian Ring (Left);{sub2{$1}sub2}
+
+Barbarian Ring (Right);{s}
+Barbarian Ring (Right);{sub2{$1}sub2}
+
+ascetic mask;{s}
+ascetic mask;{sub2{$1}sub2}
+
+Ascetic Pendant;{s}
+Ascetic Pendant;{sub2{$1}sub2}
+
+Ascetic Suit;{s}
+Ascetic Suit;{sub2{$1}sub2}
+
+Ascetic Leggings;{s}
+Ascetic Leggings;{sub2{$1}sub2}
+
+Ascetic Gloves;{s}
+Ascetic Gloves;{sub2{$1}sub2}
+
+Ascetic ring (Left);{s}
+Ascetic ring (Left);{sub2{$1}sub2}
+
+Ascetic ring (Right);{s}
+Ascetic ring (Right);{sub2{$1}sub2}
+
+Raider Pendant;{s}
+Raider Pendant;{sub2{$1}sub2}
+
+Raider Leather Armor;{s}
+Raider Leather Armor;{sub2{$1}sub2}
+
+Raider Leather Pants;{s}
+Raider Leather Pants;{sub2{$1}sub2}
+
+Raider Gauntlets;{s}
+Raider Gauntlets;{sub2{$1}sub2}
+
+Raider Ring (Left);{s}
+Raider Ring (Left);{sub2{$1}sub2}
+
+Raider Ring (Right);{s}
+Raider Ring (Right);{sub2{$1}sub2}
+
+Frost pendant;{s}
+Frost pendant;{sub2{$1}sub2}
+
+Frost Armor;{s}
+Frost Armor;{sub2{$1}sub2}
+
+Frost Leggings;{s}
+Frost Leggings;{sub2{$1}sub2}
+
+Frost Bracelet;{s}
+Frost Bracelet;{sub2{$1}sub2}
+
+Frost Ring (Left);{s}
+Frost Ring (Left);{sub2{$1}sub2}
+
+Frost Ring (Right);{s}
+Frost Ring (Right);{sub2{$1}sub2}
+
+Wildfire Pendant;{s}
+Wildfire Pendant;{sub2{$1}sub2}
+
+Wildfire Armor;{s}
+Wildfire Armor;{sub2{$1}sub2}
+
+Wildfire Leggings;{s}
+Wildfire Leggings;{sub2{$1}sub2}
+
+wildfire bracelets;{s}
+wildfire bracelets;{sub2{$1}sub2}
+
+wildfire ring (Left);{s}
+wildfire ring (Left);{sub2{$1}sub2}
+
+wildfire ring (Right);{s}
+wildfire ring (Right);{sub2{$1}sub2}
+
+Angel's Tears;{s}
+Angel's Tears;{sub2{$1}sub2}
+
+Angel Clothes;{s}
+Angel Clothes;{sub2{$1}sub2}
+
+Angel Leggings;{s}
+Angel Leggings;{sub2{$1}sub2}
+
+angel bracelet;{s}
+angel bracelet;{sub2{$1}sub2}
+
+Angel ring (Left);{s}
+Angel ring (Left);{sub2{$1}sub2}
+
+angel ring (Right);{s}
+angel ring (Right);{sub2{$1}sub2}
+
+Legacy of the Lich;{s}
+Legacy of the Lich;{sub2{$1}sub2}
+
+Lich Tabard;{s}
+Lich Tabard;{sub2{$1}sub2}
+
+Lich Leggings;{s}
+Lich Leggings;{sub2{$1}sub2}
+
+Lich Bracelet;{s}
+Lich Bracelet;{sub2{$1}sub2}
+
+Lich Ring (Left);{s}
+Lich Ring (Left);{sub2{$1}sub2}
+
+Lich Ring (Right);{s}
+Lich Ring (Right);{sub2{$1}sub2}
+
+Ribcracker;{s}
+Ribcracker;{sub2{$1}sub2}
+
+Tornado Scourge;{s}
+Tornado Scourge;{sub2{$1}sub2}
+
+Invisible Claw;{s}
+Invisible Claw;{sub2{$1}sub2}
+
+Heart Hitter;{s}
+Heart Hitter;{sub2{$1}sub2}
+
+Pelting Hail;{s}
+Pelting Hail;{sub2{$1}sub2}
+
+Thousands Blast;{s}
+Thousands Blast;{sub2{$1}sub2}
+
+Inspire Scepter;{s}
+Inspiring Scepter;{sub2{$1}sub2}
+
+Terror Scepter;{s}
+Terrifying Scepter;{sub2{$1}sub2}
+
+Champion Helm;{s}
+Champion Helm;{sub2{$1}sub2}
+
+Champion Pendant;{s}
+Champion Pendant;{sub2{$1}sub2}
+
+Champion Shoulders;{s}
+Champion Pauldrons;{sub2{$1}sub2}
+
+Champion armor;{s}
+Champion armor;{sub2{$1}sub2}
+
+champion belt;{s}
+champion belt;{sub2{$1}sub2}
+
+Champion Boots;{s}
+Champion Boots;{sub2{$1}sub2}
+
+Champion Legplates;{s}
+Champion Legplates;{sub2{$1}sub2}
+
+Champion bracers;{s}
+Champion bracers;{sub2{$1}sub2}
+
+Champion ring (Left);{s}
+Champion ring (Left);{sub2{$1}sub2}
+
+Champion ring (Right);{s}
+Champion ring (Right);{sub2{$1}sub2}
+
+Rampage Helm;{s}
+Rampage Helm;{sub2{$1}sub2}
+
+Rampage Pendant;{s}
+Rampage Pendant;{sub2{$1}sub2}
+
+Rampage Pauldrons;{s}
+Rampage Pauldrons;{sub2{$1}sub2}
+
+Rampage Armor;{s}
+Rampage Armor;{sub2{$1}sub2}
+
+Rampage Belt;{s}
+Rampage Belt;{sub2{$1}sub2}
+
+Rampage Boots;{s}
+Rampage Boots;{sub2{$1}sub2}
+
+Rampage Legplates;{s}
+Rampage Legplates;{sub2{$1}sub2}
+
+Rampage Bracers;{s}
+Rampage Bracers;{sub2{$1}sub2}
+
+Rampage ring (Left);{s}
+Rampage ring (Left);{sub2{$1}sub2}
+
+Rampage ring (Right);{s}
+Rampage ring (Right);{sub2{$1}sub2}
+
+Stealth Mask;{s}
+Stealth Mask;{sub2{$1}sub2}
+
+Stealth Pendant;{s}
+Stealth Pendant;{sub2{$1}sub2}
+
+Stealth Cloak;{s}
+Stealth Cloak;{sub2{$1}sub2}
+
+Stealth Suit;{s}
+Stealth Suit;{sub2{$1}sub2}
+
+Stealth Belt;{s}
+Stealth Belt;{sub2{$1}sub2}
+
+Stealth Boots;{s}
+Stealth Boots;{sub2{$1}sub2}
+
+Stealth shorts;{s}
+Stealth pants;{sub2{$1}sub2}
+
+Stealth Gloves;{s}
+Stealth Gloves;{sub2{$1}sub2}
+
+Stealth Ring (Left);{s}
+Stealth Ring (Left);{sub2{$1}sub2}
+
+Stealth Ring (Right);{s}
+Stealth Ring (Right);{sub2{$1}sub2}
+
+sniper hat;{s}
+sniper hat;{sub2{$1}sub2}
+
+Sniper Pendant;{s}
+Sniper Pendant;{sub2{$1}sub2}
+
+sniper cape;{s}
+sniper cape;{sub2{$1}sub2}
+
+Sniper armor;{s}
+Sniper armor;{sub2{$1}sub2}
+
+Sniper Belt;{s}
+Sniper Belt;{sub2{$1}sub2}
+
+sniper boots;{s}
+sniper boots;{sub2{$1}sub2}
+
+Sniper Leggings;{s}
+Sniper Leggings;{sub2{$1}sub2}
+
+Sniper Bracers;{s}
+Sniper Bracers;{sub2{$1}sub2}
+
+sniper ring (left);{s}
+sniper ring (left);{sub2{$1}sub2}
+
+sniper ring (right);{s}
+sniper ring (right);{sub2{$1}sub2}
+
+Blizzard Hat;{s}
+Blizzard Hat;{sub2{$1}sub2}
+
+Blizzard Charm;{s}
+Blizzard Charm;{sub2{$1}sub2}
+
+Blizzard Cloak;{s}
+Blizzard Cloak;{sub2{$1}sub2}
+
+Blizzard Robe;{s}
+Blizzard Robe;{sub2{$1}sub2}
+
+Blizzard Belt;{s}
+Blizzard Belt;{sub2{$1}sub2}
+
+Blizzard Boots;{s}
+Blizzard Boots;{sub2{$1}sub2}
+
+Blizzard Leggings;{s}
+Blizzard Leggings;{sub2{$1}sub2}
+
+Blizzard Bracelet;{s}
+Blizzard Bracelet;{sub2{$1}sub2}
+
+Blizzard Ring (Left);{s}
+Blizzard Ring (Left);{sub2{$1}sub2}
+
+blizzard ring (Right);{s}
+blizzard ring (Right);{sub2{$1}sub2}
+
+Firestorm Crown;{s}
+Firestorm Crown;{sub2{$1}sub2}
+
+Fire Storm Pendant;{s}
+Fire Storm Pendant;{sub2{$1}sub2}
+
+Firestorm Cloak;{s}
+Firestorm Cloak;{sub2{$1}sub2}
+
+Firestorm Tabard;{s}
+Firestorm Tabard;{sub2{$1}sub2}
+
+Firestorm Belt;{s}
+Firestorm Belt;{sub2{$1}sub2}
+
+Firestorm Boots;{s}
+Firestorm Boots;{sub2{$1}sub2}
+
+Firestorm Leggings;{s}
+Firestorm Leggings;{sub2{$1}sub2}
+
+Firestorm Bracelet;{s}
+Firestorm Bracelet;{sub2{$1}sub2}
+
+Firestorm ring (Left);{s}
+Firestorm ring (Left);{sub2{$1}sub2}
+
+Firestorm ring (Right);{s}
+Firestorm ring (Right);{sub2{$1}sub2}
+
+Sermon Hood;{s}
+Sermon Hood;{sub2{$1}sub2}
+
+Sermon Pendant;{s}
+Sermon Pendant;{sub2{$1}sub2}
+
+Sermon cloak;{s}
+Sermon cloak;{sub2{$1}sub2}
+
+Sermon Tabard;{s}
+Sermon Tabard;{sub2{$1}sub2}
+
+Sermon Belt;{s}
+Sermon Belt;{sub2{$1}sub2}
+
+Sermon boots;{s}
+Sermon boots;{sub2{$1}sub2}
+
+Sermon Leggings;{s}
+Sermon Leggings;{sub2{$1}sub2}
+
+Sermon bracelet;{s}
+Sermon bracelet;{sub2{$1}sub2}
+
+Sermon ring (Left);{s}
+Sermon ring (Left);{sub2{$1}sub2}
+
+Sermon ring (Right);{s}
+Sermon ring (Right);{sub2{$1}sub2}
+
+Horror mask;{s}
+Horror mask;{sub2{$1}sub2}
+
+Horror Orb;{s}
+Orb of Horror;{sub2{$1}sub2}
+
+Horror cloak;{s}
+Horror cloak;{sub2{$1}sub2}
+
+Horror Robe;{s}
+Horror Robe;{sub2{$1}sub2}
+
+Horror Belt;{s}
+Horror Belt;{sub2{$1}sub2}
+
+Horror Boots;{s}
+Horror Boots;{sub2{$1}sub2}
+
+Horror Leggings;{s}
+Horror Leggings;{sub2{$1}sub2}
+
+Horror bracelets;{s}
+Horror bracelets;{sub2{$1}sub2}
+
+Horror ring (left);{s}
+Horror ring (left);{sub2{$1}sub2}
+
+Horror ring (right);{s}
+Horror ring (right);{sub2{$1}sub2}
+
+Royal Victory;{s}
+Royal Victory;{sub2{$1}sub2}
+
+Lethal Warhammer;{s}
+Lethal Warhammer;{sub2{$1}sub2}
+
+Bloodletting razor;{s}	
+Bloodletting razor	;{sub2{$1}sub2}
+
+Hydra crossbow;{s}
+Hydra crossbow;{sub2{$1}sub2}
+
+Sealing Moon;{s}
+Sealing Moon;{sub2{$1}sub2}
+
+eruption Magma;{s}
+eruption Magma;{sub2{$1}sub2}
+
+Pure Wisdom;{s}
+Pure Wisdom;{sub2{$1}sub2}
+
+mummy Curse;{s}
+mummy Curse;{sub2{$1}sub2}
+
+weightless sack;{s}
+weightless sack;{sub2{$1}sub2}
+
+hero helmet;{s}
+hero helmet;{sub2{$1}sub2}
+
+hero pendant;{s}
+hero pendant;{sub2{$1}sub2}
+
+Hero Pauldrons;{s}
+Hero Pauldrons;{sub2{$1}sub2}
+
+Hero Armor;{s}
+Hero Armor;{sub2{$1}sub2}
+
+Hero Belt;{s}
+Hero Belt;{sub2{$1}sub2}
+
+Hero Boots;{s}
+Hero Boots;{sub2{$1}sub2}
+
+Hero Legplates;{s}
+Hero Legplates;{sub2{$1}sub2}
+
+Heroic Bracers;{s}
+Heroic Bracers;{sub2{$1}sub2}
+
+Hero ring (left);{s}
+Hero ring (left);{sub2{$1}sub2}
+
+Hero ring (right);{s}
+Hero ring (right);{sub2{$1}sub2}
+
+Sentinel Helm;{s}
+Sentinel Helm;{sub2{$1}sub2}
+
+Sentinel Pendant;{s}
+Sentinel Pendant;{sub2{$1}sub2}
+
+Sentinel Pauldrons;{s}
+Sentinel Pauldrons;{sub2{$1}sub2}
+
+Sentinel Armor;{s}
+Sentinel Armor;{sub2{$1}sub2}
+
+Sentinel Belt;{s}
+Sentinel Belt;{sub2{$1}sub2}
+
+Sentinel boots;{s}
+Sentinel boots;{sub2{$1}sub2}
+
+Sentinel Legplates;{s}
+Sentinel Legplates;{sub2{$1}sub2}
+
+Sentinel Bracers;{s}
+Sentinel Bracers;{sub2{$1}sub2}
+
+Sentinel ring (left);{s}
+Sentinel ring (left);{sub2{$1}sub2}
+
+Sentinel ring (right);{s}
+Sentinel ring (right);{sub2{$1}sub2}
+
+Executioner Mask;{s}
+Executioner Mask;{sub2{$1}sub2}
+
+Executioner Pendant;{s}
+Executioner Pendant;{sub2{$1}sub2}
+
+Executioner Cloak;{s}
+Executioner Cloak;{sub2{$1}sub2}
+
+Executioner Suit;{s}
+Executioner Suit;{sub2{$1}sub2}
+
+Executioner Belt;{s}
+Executioner Belt;{sub2{$1}sub2}
+
+Executioner Boots;{s}
+Executioner Boots;{sub2{$1}sub2}
+
+Executioner Shorts;{s}
+Executioner pants;{sub2{$1}sub2}
+
+Executioner Gloves;{s}
+Executioner Gloves;{sub2{$1}sub2}
+
+executioner ring (left;{s})
+executioner ring (left);{sub2{$1}sub2}
+
+executioner ring (right);{s}
+executioner ring (right);{sub2{$1}sub2}
+
+Penetrator helmet;{s}
+Penetrator helmet;{sub2{$1}sub2}
+
+Penetrator Pendant;{s}
+Penetrator Pendant;{sub2{$1}sub2}
+
+Penetrator shawl;{s}
+Penetrator shawl;{sub2{$1}sub2}
+
+Penetrator Leather A;{s}rmor
+Penetrator Leather Armor;{sub2{$1}sub2}
+
+Penetrator Belt;{s}
+Penetrator Belt;{sub2{$1}sub2}
+
+Penetrator boots;{s}
+Penetrator boots;{sub2{$1}sub2}
+
+Penetrator Leather P;{s}ants
+Penetrator Leather Pants;{sub2{$1}sub2}
+
+Penetrator Bracers;{s}
+Penetrator Bracers;{sub2{$1}sub2}
+
+Penetrator ring (left);{s}
+Penetrator ring (left);{sub2{$1}sub2}
+
+Penetrator ring (right);{s}
+Penetrator ring (right);{sub2{$1}sub2}
+
+Glacier Helmet;{s}
+Glacier Helmet;{sub2{$1}sub2}
+
+Glacier Pendant;{s}
+Glacier Pendant;{sub2{$1}sub2}
+
+Glacier Cloak;{s}
+Glacier Cloak;{sub2{$1}sub2}
+
+Glacier Armor;{s}
+Glacier Armor;{sub2{$1}sub2}
+
+Glacier Belt;{s}
+Glacier Belt;{sub2{$1}sub2}
+
+Glacier Boots;{s}
+Glacier Boots;{sub2{$1}sub2}
+
+Glacier Leggings;{s}
+Glacier Leggings;{sub2{$1}sub2}
+
+Glacier Bracelet;{s}
+Glacier Bracelet;{sub2{$1}sub2}
+
+glacier ring (left);{s}
+glacier ring (left);{sub2{$1}sub2}
+
+glacier ring (right);{s}
+glacier ring (right);{sub2{$1}sub2}
+
+Volcano helmet;{s}
+Volcano helmet;{sub2{$1}sub2}
+
+Volcano Orb;{s}
+Volcano Orb;{sub2{$1}sub2}
+
+Volcano Cape;{s}
+Volcano Cape;{sub2{$1}sub2}
+
+Volcano Armor;{s}
+Volcano Armor;{sub2{$1}sub2}
+
+Volcano Belt;{s}
+Volcano Belt;{sub2{$1}sub2}
+
+Volcano boots;{s}
+Volcano boots;{sub2{$1}sub2}
+
+Volcano Leggings;{s}
+Volcano Leggings;{sub2{$1}sub2}
+
+Volcano bracelet;{s}
+Volcano bracelet;{sub2{$1}sub2}
+
+Volcano ring (left);{s}
+Volcano ring (left);{sub2{$1}sub2}
+
+Volcano ring (right);{s}
+Volcano ring (right);{sub2{$1}sub2}
+
+Saint Helmet;{s}
+Saint Helmet;{sub2{$1}sub2}
+
+Saint Orb;{s}
+Saint Orb;{sub2{$1}sub2}
+
+Saint cloak;{s}
+Saint cloak;{sub2{$1}sub2}
+
+Saint Robe;{s}
+Saint Robe;{sub2{$1}sub2}
+
+Saint Belt;{s}
+Saint Belt;{sub2{$1}sub2}
+
+Saint boots;{s}
+Saint boots;{sub2{$1}sub2}
+
+Saint Leggings;{s}
+Saint Leggings;{sub2{$1}sub2}
+
+Saint bracelet;{s}
+Saint bracelet;{sub2{$1}sub2}
+
+Saint ring (left);{s}
+Saint ring (left);{sub2{$1}sub2}
+
+Saint ring (right);{s}
+Saint ring (right);{sub2{$1}sub2}
+
+Toxin mask;{s}
+Toxic mask;{sub2{$1}sub2}
+
+Toxin Magic Be;{s}ads
+Toxic Magic Beads;{sub2{$1}sub2}
+
+Toxin cloak;{s}
+Toxic cloak;{sub2{$1}sub2}
+
+Toxin Robe;{s}
+Toxic Robe;{sub2{$1}sub2}
+
+Toxin Belt;{s}
+Toxic Belt;{sub2{$1}sub2}
+
+Toxin boots;{s}
+Toxic boots;{sub2{$1}sub2}
+
+Toxin Leggings;{s}
+Toxic Leggings;{sub2{$1}sub2}
+
+Toxin bracelet;{s}
+Toxic bracelet;{sub2{$1}sub2}
+
+Toxin ring (left);{s}
+Toxic ring (left);{sub2{$1}sub2}
+
+Toxin ring (right);{s}
+Toxic ring (right);{sub2{$1}sub2}
+
+Broken Sky;{s}
+Broken Sky;{sub2{$1}sub2}
+
+Lost Eternity;{s}
+Lost Eternity;{sub2{$1}sub2}
+
+Dragon Scale;{s}
+Dragon Fang;{sub2{$1}sub2}
+
+Star Fury;{s}
+Star Fury;{sub2{$1}sub2}
+
+Desolate Snow;{s}
+Desolate Snow;{sub2{$1}sub2}
+
+Black Smoke;{s}
+Black Smoke;{sub2{$1}sub2}
+
+Redemption fing;{s}er
+Redemption finger;{sub2{$1}sub2}
+
+Demon Spine;{s}
+Demon Spine;{sub2{$1}sub2}
+
+Pioneer Helm;{s}
+Pioneer Helm;{sub2{$1}sub2}
+
+Pioneer Pendant;{s}
+Pioneer Pendant;{sub2{$1}sub2}
+
+Pioneer Shoulders;{s}
+Pioneer Pauldrons;{sub2{$1}sub2}
+
+Pioneer Armor;{s}
+Pioneer Armor;{sub2{$1}sub2}
+
+Pioneer Belt;{s}
+Pioneer Belt;{sub2{$1}sub2}
+
+Pioneer Boots;{s}
+Pioneer Boots;{sub2{$1}sub2}
+
+Pioneer Legplates;{s}
+Pioneer Legplates;{sub2{$1}sub2}
+
+Pioneer Bracers;{s}
+Pioneer Bracers;{sub2{$1}sub2}
+
+Pioneer Ring (Left);{s}
+Pioneer Ring (Left);{sub2{$1}sub2}
+
+Pioneer Ring (Right);{s}
+Pioneer Ring (Right);{sub2{$1}sub2}
+
+Giant Helm;{s}
+Giant Helm;{sub2{$1}sub2}
+
+giant pendant;{s}
+giant pendant;{sub2{$1}sub2}
+
+Giant Pauldrons;{s}
+Giant Pauldrons;{sub2{$1}sub2}
+
+Giant Armor;{s}
+Giant Armor;{sub2{$1}sub2}
+
+Giant Belt;{s}
+Giant Belt;{sub2{$1}sub2}
+
+Giant Boots;{s}
+Giant Boots;{sub2{$1}sub2}
+
+Giant Legplates;{s}
+Giant Legplates;{sub2{$1}sub2}
+
+Giant Bracers;{s}
+Giant Bracers;{sub2{$1}sub2}
+
+giant ring (left);{s}
+giant ring (left);{sub2{$1}sub2}
+
+Giant Ring (Right);{s}
+Giant Ring (Right);{sub2{$1}sub2}
+
+Reaper Mask;{s}
+Reaper Mask;{sub2{$1}sub2}
+
+Reaper Pendant;{s}
+Reaper Pendant;{sub2{$1}sub2}
+
+Reaper Cloak;{s}
+Reaper Cloak;{sub2{$1}sub2}
+
+Reaper Suit	;{s}
+Reaper Suit	;{sub2{$1}sub2}
+
+Reaper Belt;{s}
+Reaper Belt;{sub2{$1}sub2}
+
+Reaper Boots;{s}
+Reaper Boots;{sub2{$1}sub2}
+
+Reaper Shorts;{s}
+Reaper Pants;{sub2{$1}sub2}
+
+Reaper Gloves;{s}
+Reaper Gloves;{sub2{$1}sub2}
+
+reaper ring (left;{s})
+reaper ring (left);{sub2{$1}sub2}
+
+reaper ring (right);{s}
+reaper ring (right);{sub2{$1}sub2}
+
+Destroyer Hat;{s}
+Destroyer Hat;{sub2{$1}sub2}
+
+Destroyer Pendant;{s}
+Destroyer Pendant;{sub2{$1}sub2}
+
+Destroyer Cape;{s}
+Destroyer Cape;{sub2{$1}sub2}
+
+Destroyer Armor;{s}
+Destroyer Armor;{sub2{$1}sub2}
+
+Destroyer Belt;{s}
+Destroyer Belt;{sub2{$1}sub2}
+
+Destroyer Boots;{s}
+Destroyer Boots;{sub2{$1}sub2}
+
+Destroyer Pants;{s}
+Destroyer Pants;{sub2{$1}sub2}
+
+Destroyer Gauntlets;{s}
+Destroyer Gauntlets;{sub2{$1}sub2}
+
+Destroyer ring (left);{s}
+Destroyer ring (left);{sub2{$1}sub2}
+
+Destroyer ring (right);{s}
+Destroyer ring (right);{sub2{$1}sub2}
+
+Winter helmet;{s}
+Winter helmet;{sub2{$1}sub2}
+
+Winter Pendant;{s}
+Winter Pendant;{sub2{$1}sub2}
+
+winter cloak;{s}
+winter cloak;{sub2{$1}sub2}
+
+Winter armor;{s}
+Winter armor;{sub2{$1}sub2}
+
+Winter Belt;{s}
+Winter Belt;{sub2{$1}sub2}
+
+winter boots;{s}
+winter boots;{sub2{$1}sub2}
+
+Winter Leggings;{s}
+Winter Leggings;{sub2{$1}sub2}
+
+Winter bracelet;{s}
+Winter bracelet;{sub2{$1}sub2}
+
+Winter ring (left);{s}
+Winter ring (left);{sub2{$1}sub2}
+
+Winter ring (right);{s}
+Winter ring (right);{sub2{$1}sub2}
+
+Inferno helmet;{s}
+Inferno helmet;{sub2{$1}sub2}
+
+Inferno Pendant;{s}
+Inferno Pendant;{sub2{$1}sub2}
+
+Inferno cape;{s}
+Inferno cape;{sub2{$1}sub2}
+
+Inferno Armor;{s}
+Inferno Armor;{sub2{$1}sub2}
+
+Inferno Belt;{s}
+Inferno Belt;{sub2{$1}sub2}
+
+Inferno boots;{s}
+Inferno boots;{sub2{$1}sub2}
+
+Inferno Leggings;{s}
+Inferno Leggings;{sub2{$1}sub2}
+
+Inferno bracelet;{s}
+Inferno bracelet;{sub2{$1}sub2}
+
+Inferno ring (left);{s}
+Inferno ring (left);{sub2{$1}sub2}
+
+Inferno ring (right);{s}
+Inferno ring (right);{sub2{$1}sub2}
+
+Revival headband;{s}
+Revival headband;{sub2{$1}sub2}
+
+Revival Pendant;{s}
+Revival Pendant;{sub2{$1}sub2}
+
+Revival cape;{s}
+Revival cape;{sub2{$1}sub2}
+
+Revival Robe;{s}
+Revival Robe;{sub2{$1}sub2}
+
+Revival Belt;{s}
+Revival Belt;{sub2{$1}sub2}
+
+Revival boots;{s}
+Revival boots;{sub2{$1}sub2}
+
+Revival Leggings;{s}
+Revival Leggings;{sub2{$1}sub2}
+
+Revival bracelet;{s}
+Revival bracelet;{sub2{$1}sub2}
+
+Revival ring (left);{s}
+Revival ring (left);{sub2{$1}sub2}
+
+Revival ring (right);{s}
+Revival ring (right);{sub2{$1}sub2}
+
+Undead mask;{s}
+Undead mask;{sub2{$1}sub2}
+
+Undead Pendant;{s}
+Undead Pendant;{sub2{$1}sub2}
+
+Undead Cloak;{s}
+Undead Cloak;{sub2{$1}sub2}
+
+Undead Tabard;{s}
+Undead Tabard;{sub2{$1}sub2}
+
+Undead Belt;{s}
+Undead Belt;{sub2{$1}sub2}
+
+Undead Boots;{s}
+Undead Boots;{sub2{$1}sub2}
+
+Undead Leggings;{s}
+Undead Leggings;{sub2{$1}sub2}
+
+Undead bracelet;{s}
+Undead bracelet;{sub2{$1}sub2}
+
+Undead Ring (Left);{s}
+Undead Ring (Left);{sub2{$1}sub2}
+
+Undead Ring (Right);{s}
+Undead Ring (Right)v
+
+Evil Purger;{s}
+Evil Purger;{sub2{$1}sub2}
+
+Thor Hammer;{s}
+Thor Hammer;{sub2{$1}sub2}
+
+Revenge Tooth;{s}
+Revenge Tooth;{sub2{$1}sub2}
+
+Phoenix Longbow;{s}
+Phoenix Longbow;{sub2{$1}sub2}
+
+Poseidon Trident;{s}
+Poseidon Trident;{sub2{$1}sub2}
+
+Burning Corona;{s}
+Burning Corona;{sub2{$1}sub2}
+
+Salvation Cross;{s}
+Salvation Cross;{sub2{$1}sub2}
+
+Death Scythe;{s}
+Death Scythe;{sub2{$1}sub2}
+
+Saviour helmet;{s}
+Saviour helmet;{sub2{$1}sub2}
+
+Saviour Pendant;{s}
+Saviour Pendant;{sub2{$1}sub2}
+
+Saviour Shoulders;{s}
+Saviour Pauldrons;{sub2{$1}sub2}
+
+Saviour Battlegear;{s}
+Saviour Battlegear;{sub2{$1}sub2}
+
+Saviour Waistguard;{s}
+Saviour Waistguard;{sub2{$1}sub2}
+
+Saviour boots;{s}
+Saviour boots;{sub2{$1}sub2}
+
+Saviour Legplates;{s}
+Saviour Legplates;{sub2{$1}sub2}
+
+Saviour Bracers;{s}
+Saviour Bracers;{sub2{$1}sub2}
+
+Saviour ring (left);{s}
+Saviour ring (left);{sub2{$1}sub2}
+
+Saviour ring (right);{s}
+Saviour ring (right)v
+
+Patronus helmet;{s}
+Patronus helmet;{sub2{$1}sub2}
+
+Patronus Pendant;{s}
+Patronus Pendant;{sub2{$1}sub2}
+
+Patronus Pauldrons;{s}
+Patronus Pauldrons;{sub2{$1}sub2}
+
+Patronus Armor;{s}
+Patronus Armor;{sub2{$1}sub2}
+
+Patronus Waist;{s}
+Patronus Waist;{sub2{$1}sub2}
+
+Patronus boots;{s}
+Patronus boots;{sub2{$1}sub2}
+
+Patronus Legplates;{s}
+Patronus Legplates;{sub2{$1}sub2}
+
+Patronus Bracers;{s}
+Patronus Bracers;{sub2{$1}sub2}
+
+Patronus ring (left);{s}
+Patronus ring (left);{sub2{$1}sub2}
+
+Patronus ring (right);{s}
+Patronus ring (right);{sub2{$1}sub2}
+
+Slaughterer Mask;{s}
+Slaughterer Maskv
+
+Slaughterer Pendant;{s}
+Slaughterer Penda;{sub2{$1}sub2}nt
+
+Slaughterer Cloak;{s}
+Slaughterer Cloak;{sub2{$1}sub2}
+
+Slaughterer Suit;{s}
+Slaughterer Suit;{sub2{$1}sub2}
+
+Slaughterer Belt;{s}
+Slaughterer Belt;{sub2{$1}sub2}
+
+Slaughterer Boots;{s}
+Slaughterer Boots;{sub2{$1}sub2}
+
+Slaughterer Trousers;{s}
+Slaughterer Trousers;{sub2{$1}sub2}
+
+Slaughterer Gloves;{s}
+Slaughterer Gloves;{sub2{$1}sub2}
+
+Slaughterer Ring (Left;{s})
+Slaughterer Ring (Left);{sub2{$1}sub2}
+
+Slaughterer Ring (Right);{s}
+Slaughterer Ring (Right);{sub2{$1}sub2}
+
+Dominator hat;{s}
+Dominator hat;{sub2{$1}sub2}
+
+Dominator Pendant;{s}
+Dominator Pendant;{sub2{$1}sub2}
+
+Dominator Shawl;{s}
+Dominator Shawl;{sub2{$1}sub2}
+
+Dominator Armor;{s}
+Dominator Armor;{sub2{$1}sub2}
+
+Dominator Belt;{s}
+Dominator Belt;{sub2{$1}sub2}
+
+Dominator Boots;{s}
+Dominator Boots;{sub2{$1}sub2}
+
+Dominator Leggings;{s}
+Dominator Leggings;{sub2{$1}sub2}
+
+Dominator Gauntlets;{s}
+Dominator Gauntlets;{sub2{$1}sub2}
+
+Dominator ring (left);{s}
+Dominator ring (left);{sub2{$1}sub2}
+
+Dominator ring (right);{s}
+Dominator ring (right);{sub2{$1}sub2}
+
+Tsunami crown;{s}
+Tsunami crown;{sub2{$1}sub2}
+
+Tsunami Pendant;{s}
+Tsunami Pendant;{sub2{$1}sub2}
+
+Tsunami cape;{s}
+Tsunami cape;{sub2{$1}sub2}
+
+Tsunami Tabard;{s}
+Tsunami Tabard;{sub2{$1}sub2}
+
+Tsunami Belt;{s}
+Tsunami Belt;{sub2{$1}sub2}
+
+Tsunami boots;{s}
+Tsunami boots;{sub2{$1}sub2}
+
+Tsunami Leggings;{s}
+Tsunami Leggings;{sub2{$1}sub2}
+
+Tsunami bracelet;{s}
+Tsunami bracelet;{sub2{$1}sub2}
+
+Tsunami ring left ha;{s}nd
+Tsunami ring left hand;{sub2{$1}sub2}
+
+Tsunami ring right hand;{s}
+Tsunami ring right hand;{sub2{$1}sub2}
+
+Sunfire Cap;{s}
+Sunfire Cap;{sub2{$1}sub2}
+
+Sunfire Charm;{s}
+Sunfire Charm;{sub2{$1}sub2}
+
+Sunfire Cloak;{s}
+Sunfire Cloak;{sub2{$1}sub2}
+
+Sunfire Robe;{s}
+Sunfire Robe;{sub2{$1}sub2}
+
+Sunfire Belt;{s}
+Sunfire Belt;{sub2{$1}sub2}
+
+Sunfire boots;{s}
+Sunfire boots;{sub2{$1}sub2}
+
+Sunfire Leggings;{s}
+Sunfire Leggings;{sub2{$1}sub2}
+
+Sunfire bracelet;{s}
+Sunfire bracelet;{sub2{$1}sub2}
+
+Sunfire ring (left);{s}
+Sunfire ring (left);{sub2{$1}sub2}
+
+Sunfire Ring (Right);{s}
+Sunfire Ring (Right);{sub2{$1}sub2}
+
+Celestial Halo;{s}
+Celestial Halo;{sub2{$1}sub2}
+
+Celestial pendant;{s}
+Celestial pendant;{sub2{$1}sub2}
+
+Celestial Wings;{s}
+Celestial Wings;{sub2{$1}sub2}
+
+Celestial robe;{s}
+Celestial robe;{sub2{$1}sub2}
+
+Celestial Girdle;{s}
+Celestial Girdle;{sub2{$1}sub2}
+
+Celestial Boots;{s}
+Celestial Boots;{sub2{$1}sub2}
+
+Celestial Leggings;{s}
+Celestial Leggings;{sub2{$1}sub2}
+
+Celestial bracelet;{s}
+Celestial bracelet;{sub2{$1}sub2}
+
+Celestial ring (left);{s}
+Celestial ring (left);{sub2{$1}sub2}
+
+Celestial ring (right);{s}
+Celestial ring (right);{sub2{$1}sub2}
+
+Sacrifice Mask;{s}
+Sacrificial Mask;{sub2{$1}sub2}
+
+Sacrifice Pendant;{s}
+Sacrificial Pendant;{sub2{$1}sub2}
+
+Sacrifice Cloak;{s}
+Sacrificial Cloak;{sub2{$1}sub2}
+
+Sacrifice Tabard;{s}
+Sacrificial Tabard;{sub2{$1}sub2}
+
+Sacrifice belt;{s}
+Sacrificial belt;{sub2{$1}sub2}
+
+Sacrifice boots;{s}
+Sacrificial boots;{sub2{$1}sub2}
+
+Sacrifice Leggings;{s}
+Sacrificial Leggings;{sub2{$1}sub2}
+
+Sacrifice bracelet;{s}
+Sacrificial bracelet;{sub2{$1}sub2}
+
+Sacrifice ring (left);{s}
+Sacrificial ring (left);{sub2{$1}sub2}
+
+Sacrifice ring (right);{s}
+Sacrificial ring (right);{sub2{$1}sub2}

@@ -1,0 +1,587 @@
+no mutation
+no mutation
+
+primary mutation
+primary mutation
+
+intermediate mutation
+intermediate mutation
+
+advanced mutation
+advanced mutation
+
+super mutation
+super mutation
+
+perfect mutation
+perfect mutation
+
+cautious
+cautious
+
+loyal
+loyal
+
+smart
+smart
+
+courageous
+courageous
+
+{s}Frog{s}, level {d}, breakthrough Index {d}, amiability {d}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1Frog$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, This happy little frog loves nothing more than to sing, and eat. When its hungry, you'll know.
+
+{s}Frog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1Frog$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, This happy little frog loves nothing more than to sing, and eat. When its hungry, you'll know.
+
+{s}Frog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1Frog$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, This happy little frog loves nothing more than to sing, and eat. When its hungry, you'll know.
+
+{s}Frog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1Frog$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, This happy little frog loves nothing more than to sing, and eat. When its hungry, you'll know.
+
+{s}Frog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1Frog$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, This happy little frog loves nothing more than to sing, and eat. When its hungry, you'll know.
+
+{s}Frog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A frog who loves to sing, it will sing to you when it is hungry.
+$1Frog$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, This happy little frog loves nothing more than to sing, and eat. When its hungry, you'll know.
+
+{s}Beetle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1Beetle$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong cutting power.
+
+{s}Beetle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1Beetle$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong cutting power.
+
+{s}Beetle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1Beetle$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong cutting power.
+
+{s}Beetle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1Beetle$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong cutting power.
+
+{s}Beetle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1Beetle$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong cutting power.
+
+{s}Beetle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong attack power.
+$1Beetle$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, The shell is shiny and seems to be very hard. There are two teams of translucent wings on the back, and the forelimbs are like sharp knives, which have a strong cutting power.
+
+{s}Golden Rooster{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1Golden Rooster$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, The feathers are golden, the little head is held high, who knows what it is thinking?
+
+{s}Golden Rooster{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1Golden Rooster$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The feathers are golden, the little head is held high, who knows what it is thinking?
+
+{s}Golden Rooster{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1Golden Rooster$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, The feathers are golden, the little head is held high, who knows what it is thinking?
+
+{s}Golden Rooster{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1Golden Rooster$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The feathers are golden, the little head is held high, who knows what it is thinking?
+
+{s}Golden Rooster{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1Golden Rooster$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, The feathers are golden, the little head is held high, who knows what it is thinking?
+
+{s}Golden Rooster{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The hair is golden, the little head is held high, who knows what it is thinking.
+$1Golden Rooster$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, The feathers are golden, the little head is held high, who knows what it is thinking?
+
+{s}Duck{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1Duck$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, The little fool who will stand up in the face of danger, seems very cute.
+
+{s}Duck{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1Duck$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The little fool who will stand up in the face of danger, seems very cute.
+
+{s}Duck{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1Duck$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, The little fool who will stand up in the face of danger, seems very cute.
+
+{s}Duck{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1Duck$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The little fool who will stand up in the face of danger, seems very cute.
+
+{s}Duck{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1Duck$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, The little fool who will stand up in the face of danger, seems very cute.
+
+{s}Duck{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The little fool who will stand up in the face of danger, seems very cute.
+$1Duck$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, The little fool who will stand up in the face of danger, seems very cute.
+
+{s}Donkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1Donkey$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, This stubborn beast of burden enjoys following you around and kicking your enemies to death.
+
+{s}Donkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1Donkey$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, This stubborn beast of burden enjoys following you around and kicking your enemies to death.
+
+{s}Donkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1Donkey$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, This stubborn beast of burden enjoys following you around and kicking your enemies to death.
+
+{s}Donkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1Donkey$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, This stubborn beast of burden enjoys following you around and kicking your enemies to death.
+
+{s}Donkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1Donkey$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, This stubborn beast of burden enjoys following you around and kicking your enemies to death.
+
+{s}Donkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Stupid and cute donkey
+$1Donkey$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, This stubborn beast of burden enjoys following you around and kicking your enemies to death.
+
+{s}Goat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1Goat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A fluffy, white-furred creature, that is all too happy to ram enemies to death.
+
+{s}Goat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1Goat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A fluffy, white-furred creature, that is all too happy to ram enemies to death.
+
+{s}Goat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1Goat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A fluffy, white-furred creature, that is all too happy to ram enemies to death.
+
+{s}Goat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1Goat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A fluffy, white-furred creature, that is all too happy to ram enemies to death.
+
+{s}Goat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1Goat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A fluffy, white-furred creature, that is all too happy to ram enemies to death.
+
+{s}Goat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Snow white goat
+$1Goat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A fluffy, white-furred creature, that is all too happy to ram enemies to death.
+
+{s}Steed{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1Steed$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A noble and powerful horse, who is ready to aid you in battle.
+
+{s}Steed{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1Steed$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A noble and powerful horse, who is ready to aid you in battle.
+
+{s}Steed{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1Steed$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A noble and powerful horse, who is ready to aid you in battle.
+
+{s}Steed{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1Steed$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A noble and powerful horse, who is ready to aid you in battle.
+
+{s}Steed{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1Steed$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A noble and powerful horse, who is ready to aid you in battle.
+
+{s}Steed{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Tall horse
+$1Steed$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A noble and powerful horse, who is ready to aid you in battle.
+
+{s}Cattle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1Cow$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A sturdy ally against your enemies, who can be turned into a feast if killed.
+
+{s}Cattle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1Cow$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A sturdy ally against your enemies, who can be turned into a feast if killed.
+
+{s}Cattle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1Cow$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A sturdy ally against your enemies, who can be turned into a feast if killed.
+
+{s}Cattle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1Cow$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A sturdy ally against your enemies, who can be turned into a feast if killed.
+
+{s}Cattle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1Cow$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A sturdy ally against your enemies, who can be turned into a feast if killed.
+
+{s}Cattle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Sturdy cattle
+$1Cow$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A sturdy ally against your enemies, who can be turned into a feast if killed.
+
+{s}Shorthair Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1Shorthair Cat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A lively cat with short, but soft fur.
+
+{s}Shorthair Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1Shorthair Cat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A lively cat with short, but soft fur.
+
+{s}Shorthair Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1Shorthair Cat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A lively cat with short, but soft fur.
+
+{s}Shorthair Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1Shorthair Cat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A lively cat with short, but soft fur.
+
+{s}Shorthair Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1Shorthair Cat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A lively cat with short, but soft fur.
+
+{s}Shorthair Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively shorthair cat
+$1Shorthair Cat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A lively cat with short, but soft fur.
+
+{s}Hound{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1Hound$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, a loyal hound for hunting down your enemies.
+
+{s}Hound{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1Hound$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, a loyal hound for hunting down your enemies.
+
+{s}Hound{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1Hound$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, a loyal hound for hunting down your enemies.
+
+{s}Hound{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1Hound$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, a loyal hound for hunting down your enemies.
+
+{s}Hound{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1Hound$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, a loyal hound for hunting down your enemies.
+
+{s}Hound{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Loyal hound
+$1Hound$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, a loyal hound for hunting down your enemies.
+
+{s}Curly Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1Curly Cat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A cute cat with long, curly fur.
+
+{s}Curly Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1Curly Cat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A cute cat with long, curly fur.
+
+{s}Curly Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1Curly Cat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A cute cat with long, curly fur.
+
+{s}Curly Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1Curly Cat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A cute cat with long, curly fur.
+
+{s}Curly Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1Curly Cat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A cute cat with long, curly fur.
+
+{s}Curly Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Cute curly cat
+$1Curly Cat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A cute cat with long, curly fur.
+
+{s}Shepard Dog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1Shepard Dog$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A long snouted canine with pointed ears and a runner's build.
+
+{s}Shepard Dog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1Shepard Dog$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A long snouted canine with pointed ears and a runner's build.
+
+{s}Shepard Dog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1Shepard Dog$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A long snouted canine with pointed ears and a runner's build.
+
+{s}Shepard Dog{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1Shepard Dog$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A long snouted canine with pointed ears and a runner's build.
+
+{s}Shepard Dog{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1Shepard Dog$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A long snouted canine with pointed ears and a runner's build.
+
+{s}Shepard Dog{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave Collie
+$1Shepard Dog$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A long snouted canine with pointed ears and a runner's build.
+
+{s}Parrot{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1Parrot$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A lively bird that likes to eat nuts and also use them as projectiles to attack your enemies.
+
+{s}Parrot{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1Parrot$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A lively bird that likes to eat nuts and also use them as projectiles to attack your enemies.
+
+{s}Parrot{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1Parrot$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A lively bird that likes to eat nuts and also use them as projectiles to attack your enemies.
+
+{s}Parrot{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1Parrot$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A lively bird that likes to eat nuts and also use them as projectiles to attack your enemies.
+
+{s}Parrot{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1Parrot$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A lively bird that likes to eat nuts and also use them as projectiles to attack your enemies.
+
+{s}Parrot{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively parrots like to eat nuts and also use nuts as weapons to attack enemies
+$1Parrot$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A lively bird that likes to eat nuts and also use them as projectiles to attack your enemies.
+
+{s}Lizard{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1Lizard$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, An unassuming reptile with whip-like speed.
+
+{s}Lizard{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1Lizard$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, An unassuming reptile with whip-like speed.
+
+{s}Lizard{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1Lizard$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, An unassuming reptile with whip-like speed.
+
+{s}Lizard{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1Lizard$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, An unassuming reptile with whip-like speed.
+
+{s}Lizard{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1Lizard$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, An unassuming reptile with whip-like speed.
+
+{s}Lizard{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, obedient and cute lizard
+$1Lizard$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, An unassuming reptile with whip-like speed.
+
+{s}Monkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1Monkey$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, Lively and very smart.
+
+{s}Monkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1Monkey$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Lively and very smart.
+
+{s}Monkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1Monkey$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, Lively and very smart.
+
+{s}Monkey{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1Monkey$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Lively and very smart.
+
+{s}Monkey{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1Monkey$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, Lively and very smart.
+
+{s}Monkey{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Lively and very smart.
+$1Monkey$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, Lively and very smart.
+
+{s}Wild Eagle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1Wild Eagle$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A proud wind spirit with gorgeous feathers.
+
+{s}Wild Eagle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1Wild Eagle$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A proud wind spirit with gorgeous feathers.
+
+{s}Wild Eagle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1Wild Eagle$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A proud wind spirit with gorgeous feathers.
+
+{s}Wild Eagle{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1Wild Eagle$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A proud wind spirit with gorgeous feathers.
+
+{s}Wild Eagle{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1Wild Eagle$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A proud wind spirit with gorgeous feathers.
+
+{s}Wild Eagle{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A proud wind spirit with gorgeous feathers.
+$1Wild Eagle$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A proud wind spirit with gorgeous feathers.
+
+{s}Hippo{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1Hippo$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+
+{s}Hippo{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1Hippo$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+
+{s}Hippo{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1Hippo$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+
+{s}Hippo{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1Hippo$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+
+{s}Hippo{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1Hippo$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+
+{s}Hippo{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+$1Hippo$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, docile hippos with huge size. When angry, they will use big mouth to teach each other a lesson.
+
+{s}Boar{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1Boar$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, The majestic boar, its stunt is to use its long fangs to stab
+
+{s}Boar{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1Boar$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The majestic boar, its stunt is to use its long fangs to stab
+
+{s}Boar{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1Boar$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, The majestic boar, its stunt is to use its long fangs to stab
+
+{s}Boar{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1Boar$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The majestic boar, its stunt is to use its long fangs to stab
+
+{s}Boar{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1Boar$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, The majestic boar, its stunt is to use its long fangs to stab
+
+{s}Boar{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic boar, its stunt is to use its long fangs to stab
+$1Boar$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, The majestic boar, its stunt is to use its long fangs to stab
+
+{s}Elephant{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1Elephant$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+
+{s}Elephant{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1Elephant$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+
+{s}Elephant{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1Elephant$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+
+{s}Elephant{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1Elephant$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+
+{s}Elephant{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1Elephant$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+
+{s}Elephant{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+$1Elephant$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, The largest terrestrial mammals, they are very intelligent and are good at using their noses to attack enemy or protect themselves.
+
+{s}Brown Bear{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1Brown Bear$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, Brave brown bear, slap is its best weapon
+
+{s}Brown Bear{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1Brown Bear$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Brave brown bear, slap is its best weapon
+
+{s}Brown Bear{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1Brown Bear$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, Brave brown bear, slap is its best weapon
+
+{s}Brown Bear{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1Brown Bear$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Brave brown bear, slap is its best weapon
+
+{s}Brown Bear{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1Brown Bear$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, Brave brown bear, slap is its best weapon
+
+{s}Brown Bear{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Brave brown bear, slap is its best weapon
+$1Brown Bear$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, Brave brown bear, slap is its best weapon
+
+{s}Snow Wolf{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1Snow Wolf$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, Indigenous creatures living in the polar regions, with cold expression, very alert
+
+{s}Snow Wolf{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1Snow Wolf$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Indigenous creatures living in the polar regions, with cold expression, very alert
+
+{s}Snow Wolf{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1Snow Wolf$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, Indigenous creatures living in the polar regions, with cold expression, very alert
+
+{s}Snow Wolf{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1Snow Wolf$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Indigenous creatures living in the polar regions, with cold expression, very alert
+
+{s}Snow Wolf{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1Snow Wolf$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, Indigenous creatures living in the polar regions, with cold expression, very alert
+
+{s}Snow Wolf{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Indigenous creatures living in the polar regions, with cold expression, very alert
+$1Snow Wolf$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, Indigenous creatures living in the polar regions, with cold expression, very alert
+
+{s}Lion{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1Lion$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, The majestic king of the prairie
+
+{s}Lion{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1Lion$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The majestic king of the prairie
+
+{s}Lion{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1Lion$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, The majestic king of the prairie
+
+{s}Lion{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1Lion$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, The majestic king of the prairie
+
+{s}Lion{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1Lion$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, The majestic king of the prairie
+
+{s}Lion{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, The majestic king of the prairie
+$1Lion$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, The majestic king of the prairie
+
+{s}Cheetah{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1Cheetah$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A swift killer in nature
+
+{s}Cheetah{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1Cheetah$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A swift killer in nature
+
+{s}Cheetah{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1Cheetah$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A swift killer in nature
+
+{s}Cheetah{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1Cheetah$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A swift killer in nature
+
+{s}Cheetah{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1Cheetah$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A swift killer in nature
+
+{s}Cheetah{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A swift killer in nature
+$1Cheetah$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A swift killer in nature
+
+{s}Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1Tiger$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+
+{s}Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1Tiger$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+
+{s}Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1Tiger$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+
+{s}Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1Tiger$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+
+{s}Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1Tiger$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+
+{s}Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+$1Tiger$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, Ferocious and tenacious, they will not hesitate to pounce in the face of threats.
+
+{s}Pixie{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1Pixie$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+
+{s}Pixie{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1Pixie$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+
+{s}Pixie{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1Pixie$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+
+{s}Pixie{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1Pixie$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+
+{s}Pixie{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1Pixie$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+
+{s}Pixie{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+$1Pixie$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, Very well-behaved, a little timid, very beautiful, with two teams of angel wings on its back.
+
+{s}Sprite{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1Sprite$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, Petite and cute, lively and smiling.
+
+{s}Sprite{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1Sprite$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Petite and cute, lively and smiling.
+
+{s}Sprite{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1Sprite$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, Petite and cute, lively and smiling.
+
+{s}Sprite{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1Sprite$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, Petite and cute, lively and smiling.
+
+{s}Sprite{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1Sprite$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, Petite and cute, lively and smiling.
+
+{s}Sprite{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, Petite and cute, lively and smiling.
+$1Sprite$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, Petite and cute, lively and smiling.
+
+{s}Goblin{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1Goblin$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A skinny little thing with green skin, very good at calculating.
+
+{s}Goblin{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1Goblin$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A skinny little thing with green skin, very good at calculating.
+
+{s}Goblin{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1Goblin$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A skinny little thing with green skin, very good at calculating.
+
+{s}Goblin{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1Goblin$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A skinny little thing with green skin, very good at calculating.
+
+{s}Goblin{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1Goblin$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A skinny little thing with green skin, very good at calculating.
+
+{s}Goblin{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A skinny little thing with green skin, very good at calculating.
+$1Goblin$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A skinny little thing with green skin, very good at calculating.
+
+{s}Slime{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+$1Slime$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, In front of the translucent blue body are blinked big eyes
+
+{s}Slime{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+$1Slime$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, In front of the translucent blue body are blinked big eyes
+
+{s}Slime{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+$1Slime$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, In front of the translucent blue body are blinked big eyes
+
+{s}Slime{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+$1Slime$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, In front of the translucent blue body are blinked big eyes
+
+{s}Slime{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+$1Slime$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, In front of the translucent blue body are blinked big eyes
+
+{s}Slime{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, In front of the translucent blue body are blinked big eyes
+$1Slime$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, In front of the translucent blue body are blinked big eyes
+
+{s}Ice Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1Ice Tiger$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1Ice Tiger$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1Ice Tiger$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1Ice Tiger$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1Ice Tiger$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Ice Tiger{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+$1Ice Tiger$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, there's dark blue stripes on their light blue fur, and they are relatively quiet due to the ice attribute, but very fierce when encountered with enemies.
+
+{s}Night Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1Night Cat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1Night Cat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1Night Cat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1Night Cat$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1Night Cat$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Night Cat{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, A rare elf with a round face and two cat ears on the top of its head.
+$1Night Cat$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, A rare elf with a round face and two cat ears on the top of its head.
+
+{s}Cherub{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1Cherub$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2} and {sub2{$13}sub2}, talent skills: $14, asset $15, growth rate $16, personality: {sub2{$17}sub2}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+
+{s}Cherub{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1Cherub$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2} and {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+
+{s}Cherub{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s} and {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1Cherub$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2} and {sub2{$10}sub2}, talent skills: $11, asset $12, growth rate $13, personality: {sub2{$14}sub2}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+
+{s}Cherub{s}, level {d}, upgrading requires {d} experience, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1Cherub$2, level $3, upgrading requires $4 experience, {sub2{$5}sub2}, breakthrough Index $6, amiability $7, HP $8/$9, MP $10/$11, skill: {sub2{$12}sub2}, talent skills: $13, asset $14, growth rate $15, personality: {sub2{$16}sub2}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+
+{s}Cherub{s}, level {d}, {s}, breakthrough Index {d}, amiability {d}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1Cherub$2, level $3, {sub2{$4}sub2}, breakthrough Index $5, amiability $6, HP $7/$8, MP $9/$10, skill: {sub2{$11}sub2}, talent skills: $12, asset $13, growth rate $14, personality: {sub2{$15}sub2}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+
+{s}Cherub{s}, level {d}, {s}, HP {d}/{d}, MP {d}/{d}, skill: {s}, talent skills: {d}, asset {d}, growth rate {d}, personality: {s}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.
+$1Cherub$2, level $3, {sub2{$4}sub2}, HP $5/$6, MP $7/$8, skill: {sub2{$9}sub2}, talent skills: $10, asset $11, growth rate $12, personality: {sub2{$13}sub2}, There is a golden aperture on his head, his eyes are clear, his pink and tender face is smiling, and there are two teams of luminous wings behind its body.

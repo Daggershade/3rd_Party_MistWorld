@@ -1,0 +1,89 @@
+Wrecked 
+Wrecked 
+
+Damaged 
+Damaged 
+
+inserted with 
+inserted with 
+
+plus: When casting skills healing increase {d}%
+plus: When using skills healing increases by $1%
+
+plus: When attacked healing increase {d}%
+plus: When attacked healing increases by $1%
+
+plus: healing increase {d}%
+plus: healing increases by $1%
+
+plus: When casting skills physical damage increase {d}%
+plus: When using skills physical damage increases by $1%
+
+plus: When attacked physical damage increase {d}%
+plus: When attacked physical damage increases by $1%
+
+plus: When casting skills magic damage increase {d}%
+plus: When using skills magic damage increases by $1%
+
+plus: When attacked magic damage increase {d}%
+plus: When attacked magic damage increases by $1%
+
+plus: When casting skills damage increase {d}%
+plus: When using skills damage increases by $1%
+
+plus: When attacked damage increase {d}%
+plus: When attacked damage increases by $1%
+
+plus: When casting skills healing reduce {d}%
+plus: When using skills healing reduces by $1%
+
+plus: When attacked healing reduce {d}%
+plus: When attacked healing reduces by $1%
+
+plus: healing reduce {d}%
+plus: healing reduces by $1%
+
+plus: When casting skills physical damage reduce {d}%
+plus: When using skills physical damage reduces by $1%
+
+plus: When attacked physical damage reduce {d}%
+plus: When attacked physical damage reduces by $1%
+
+plus: When casting skills magic damage reduce {d}%
+plus: When using skills magic damage reduces by $1%
+
+plus: When attacked magic damage reduce {d}%
+plus: When attacked magic damage reduces by $1%
+
+plus: When casting skills damage reduce {d}%
+plus: When using skills damage reduces by $1%
+
+plus: When attacked damage reduce {d}%
+plus: When attacked damage reduces by $1%
+
+plus: Disable Skill
+plus: Disable Skill
+
+plus: When casting skills hit chance increase {d}
+plus: When using skills hit chance increases by $1
+
+plus: When attacked dodge chance increase {d}
+plus: When attacked dodge chance increases by $1
+
+plus: When casting skills defense break chance increase {d}
+plus: When using skills defense break chance increases by $1
+
+plus: When casting skills defense break damage increase {d}
+plus: When using skills defense break damage increases by $1
+
+plus: When attacked toughness increase {d}
+plus: When attacked toughness increases by $1
+
+plus: When casting skills critical hit chance increase {d}
+plus: When using skills critical hit chance increases by $1
+
+plus: When casting skills critical hit damage increase {d}
+plus: When using skills critical hit damage increases by $1
+
+plus: When attacked critical hit resistance increase {d}
+plus: When attacked critical hit resistance increases by $1

@@ -1,0 +1,27 @@
+{d} {s};Unit price {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+$1 {sub2{$2}sub2};Unit price $3 gold coins;Sale time {sub2{$4}sub2} $5, $6:$7, $8
+
+{d} {s};Unit price {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+$1 {sub2{$2}sub2};Unit price $3 gold coins;Sale time {sub2{$4}sub2} $5, $6:$7, $8
+
+New; {d} {s};Unit price {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+New; $1 {sub2{$2}sub2};Unit price $3 gold coins;$4 minutes and $5 seconds remaining in the display time
+
+New; {d} {s};Unit price {d} gold coins;{d} seconds remaining in the display time
+New; $1 {sub2{$2}sub2};Unit price $3 gold coins;$4 seconds remaining in the display time
+
+{s};{s} ;Price: {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+{sub2{$1}sub2};{sub2{$2}sub2} ;Price: $3 gold coins;Sale time {sub2{$4}sub2} $5, $6:$7, $8
+
+{s};Price: {d} gold coins;Sale time {s} {d}, {d}:{d}, {d}
+{sub2{$1}sub2};Price: $2 gold coins;Sale time {sub2{$3}sub2} $4, $5:$6, $7
+
+New; {s};{s} ;Price: {d} gold coins;{d} minutes and {d} seconds remaining in the display time
+New; {sub2{$1}sub2};{sub2{$2}sub2} ;Price: $3 gold coins;$4 minutes and $5 seconds remaining in the display time
+
+New; {s};{s} ;Price: {d} gold coins;{d} seconds remaining in the display time
+New; {sub2{$1}sub2};{sub2{$2}sub2} ;Price: $3 gold coins;$4 seconds remaining in the display time
+
+{s}; durability {d}.{d} of {d}.0; enhance Level 0; quality {s}; strengthen {s}; available for {s}; level {d}; weight {d};{s}; Seller ID: {d}
+{sub2{$1}sub2}; durability $2.$3 of $4.0; enhance Level 0; quality {sub2{$5}sub2}; strengthen {sub2{$6}sub2}; available for {sub2{$7}sub2}; level $8; weight $9;{sub2{$10}sub2}; Seller ID: $11
+

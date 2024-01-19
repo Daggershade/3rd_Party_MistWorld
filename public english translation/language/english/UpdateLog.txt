@@ -1,0 +1,193 @@
+Recent Changes
+2023/01/02
+sroath's modifications
+added a translation in the "is damaged" strings that go to the system log when gear breaks to add a space where there was none separating the item from the message.
+added a couple more gang specific strings, translating 1st, 2nd, and 3rd in a few places.
+added a translation for storage when items are bound.
+fixed nearly all numbers involving 1st displaying as 1th, 2nd as 2th, and 3rd as 3th.
+modified the ranking line for compatitions.
+tweaked a handful of mob names in the roll.txt file
+changed the "take him as your pupil" to be "take them as your pupil".
+Added lines to properly translate the stackable items in the market place.
+Added an extra "cattle" vs "cow" line to the role_pet.txt file due to edge cases of uncommon whitespace.
+took out the unnecessary s in the description of purification.
+changed the multiple "and"s in gift boxes to kamas.
+started modifying pet descriptions
+
+2023/09/11
+Sroath's modifications
+added 2 lines to the gang_strings.txt to fix 31th and other strange numbering from the bidding announcements as well as cleaning up some of the english.
+added a missing space in the fusion beast descriptions that was causing the translations to fail.
+changed "a" to "the" when new members join the gang.
+added a line to the gang_string.txt to translate the numbers correctly when gang wars finish.
+added two lines to the role_player_description.txt to correct the mentions of "witcher" on lv15 gear to sorcerer
+changed shard marketplace to shard broker since it's a single person running the market, not a full institution.
+modified the description of the shard broker slightly.
+changed god blessed to simply blessed.
+fixed priest leggingsv to have the correct substitution call.
+corrected 1th, 2th, and 3th in the gang tournament rankings to 1st, 2nd, and 3rd.
+introduced a space in gang material storage. was missing before "limit access".
+took out the empty "plus:" strings from the combat fusion beast forms.
+added a line to shops.txt to correct gear names and qualities translating in the enhancing menu.
+
+2023-08-15
+Sroath's modifications
+added a new file called "item_looted.txt", which translates drops.
+added a new file called "equipment_dropped.txt", which translates drops.
+added a new file called "system.txt", which translates a number of channel outputs from the system, including a few boss death lines.
+added a new file called "equipment_market.txt", which translates the market text strings.
+added a new file called "equipment_stored.txt", which attempts to translate storage units. thus far is successful in gang storage.
+added a new file called "gang.txt", which translates a number of gang specific strings.
+added a new file called "numerics.txt", which corrects the "1th", "2th", "3th", and so on. Doesn't go above 100.
+added a new file called "events.txt", thus far only singularizes the envoy.
+added a secondary "sophisticated" to "superior" to the "equipment_description.txt" file for edge cases where the original didn't catch it due to white space.
+changed " incarnate in the form of" to " incarnated in the form of" in role_description_player.txt"
+Added a line for the "enhance Level {d};quality: {s}" line of gear in "role_description_player.txt"
+changed "inspire scepter" to "inspiring scepter" in "role_description_player.txt" to match changes to equipment lists.
+changed "toxin" to "toxic" in "role_description_player.txt"
+changed "scale" to "fang" in "role_description_player.txt"
+changed "sacrifice" to "sacrificial" in role_description_player.txt"
+deleted the following lines from "role_description_player.txt", as they were unnecessary:
+-  with {n} on your clothes
+-  with {sub2{$1}sub2} on your clothes
+-  with {n}, {n} on your clothes
+-  with {sub2{$1}sub2},{sub2{$2}sub2} on your clothes
+- with {n}, {n}, {n} on your clothes
+-  with {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2} on your clothes
+-  with {n}, {n}, {n}, {n} on your clothes
+-  with {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2} on your clothes
+-  with {n}, {n}, {n}, {n}, {n} on your clothes
+-  with {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2} on your clothes
+-  with {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+-  with {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2} on your clothes
+-  with {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+-  with {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2} on your clothes
+-  with {n}, {n}, {n}, {n}, {n}, {n}, {n}, {n} on your clothes
+-  with {sub2{$1}sub2},{sub2{$2}sub2},{sub2{$3}sub2},{sub2{$4}sub2},{sub2{$5}sub2},{sub2{$6}sub2},{sub2{$7}sub2},{sub2{$8}sub2} on your clothes
+added a new file called "shops.txt" to translate the recycle and other shop specific menus.
+
+2023-7-22
+Sroath's modifications
+* in basic.txt:
+Added "name" to lines calling for "account".
+changed "6-16 characters" to "6 to 16 characters".
+modified "confirm" to "confirmation" in a couple locations.
+corrected "delet caracter" to "delete character"
+added "the" to the request for email varification code to match the request for a mobile varification code. (line 206)
+changed "equipments" to "equipment" (line 359)
+altered "change account" to "switch account". (line 500)
+changed "not to read" to "reading none" (line521)
+changed "not to show" to "showing none" (line 530)
+changed "with new" to "new messages" (line 551)
+changed "yours" in several entries to "allies".
+modified several singular/plural agreements throughout the battle log strings.
+changed several entries of "deposit" to "store". (lines 875, 878, 884, 890)
+changed "stopping to follow" to "stopped following" (line 947)
+changed "remuved" to "removed" (line 1076)
+changed "sophisticated" to "superior" (line 1223)
+changed "Godbless" to "GodBlessed" (line 1247)
+* in mapname.txt:
+Changed the "him" to "them" in a few tutor based lines to be gender neutral. (lines 50 and 53)
+made the string flow better. (line 50)
+changed "dawn of dawn" to "light of dawn" (line 53)
+change "beauty of" to "beautiful" (line 152)
+changed "grottoe" to "grotto" (lines 176 and 326)
+changed "cattles mountain" to "cattle mountain" (line 590)
+* in terrain.txt
+changed "weed" to "weeds" (line 8)
+changed "snow road" to "snowy road" (line 41)
+changed "bushe" to "bush" (line 1226)
+changed "grottoe" to "grotto" (line 2378)
+changed "collapse" to "collapsed" (lines 2705 and 5141)
+change "no. 1" to "1" to bring it in line with the other roads of the same type. (line 3374)
+deleted two non-english characters from the line to make it "sea floor" (line 3926)
+changed "cattles" to "cattle" (line 4022)
+changed "beauty of" to "beautiful" (line 4649)
+added "No. " to make them match the other stairwells (lines 4754, 4760, 4769)
+made the string flow better. (line 5102)
+changed "central" to "center" (line 5225)
+* in more\basic.txt:
+added an "s" to "buff" (line 83)
+took an "s" off of "counts" (line 92)
+* in more\combat skills.txt:
+changed "$!" to "$1" which also fixed the audio file not playing when using the sweep attack with warrior (line 23)
+changed "Croissant" to "crescent" (lines 653, 1744, 1747, 1750)
+changed "leave" to "leaf" (lines 731, 2009, 2012, 2015)
+changed "dark holy" to "unholy" (line 986)
+changed "昏迷" to "hidden" according to translation software it could be coma or obviscation (line 1058)
+changed "SeniorWhip" to "advanced whip" to bring it in line with all other pet skills (line 1867)
+* in more\equipment.txt:
+Changed "Shoulders" to "Pauldrons" (lines 62, 149, 179, 443, 680, 710, 944, 1475, 1742)
+took the space out of "fighter 's" to make it "fighter's" (line 146)
+changed "magic from Wisdom" to "magical Wisdom" (line 266)
+changed "forgiving from heart" to "heart's forgiveness" (line 326)
+changed "inspire" to "inspiring" to bring it in line with the other weapons of this level (lines 932, 2864, 2867, 2870, 2873)
+changed "terror" to "terrifying" to bring it in line with other weapons of this level (lines 935, 2876, 2879, 2882, 2885)
+changed "shorts" to "pants" because it highly confuses me why an assassin would leave skin exposed (lines 1016, 1283, 1547)
+changed "toxin" to "toxic" (lines 1415, 1418, 1421, 1424, 1427, 1430, 1433, 1436, 1439, 1442, 3164, 3167, 3170, 3173)
+changed "scale" to "fang" scales are normally armor while fangs or claws are weapons (lines 1451, 3200, 3203, 3206, 3209)
+changed "sacrifice" to "sacrificial" (lines 1946, 1949, 1952, 1955, 1958, 1961, 1964, 1967, 1970, 1973, 3548, 3551, 3554, 3557)
+changed "expert of hunting" to "hunting expert medal" (line 2072)
+changed "apprentice of hunting" to "hunting apprentice medal" (line 2075)
+changed "Godbless" to "GodBlessed" (lines 2129, 2141, 2153, 2165, 2177, 2189, 2201, 2213, 2225, 2237, 2249, 2261, 2273, 2285, 2297, 2309, 2321, 2333, 2345, 2357, 2369, 2381, 2393, 2405, 2417, 2429, 2441, 2453, 2465, 2477, 2489, 2501, 2513, 2525, 2537, 2549, 2561, 2573, 2585, 2597, 2609, 2621, 2633, 2645, 2657, 2669, 2681, 2693, 2705, 2717, 2729, 2741, 2753, 2765, 2777, 2789, 2801, 2813, 2825, 2837, 2849, 2861, 2873, 2885, 2897, 2909, 2991, 2933, 2945, 2957, 2969, 2981, 2993, 3005, 3017, 3029, 3041, 3053, 3065, 3077, 3089, 3101, 3113, 3125, 3137, 3149, 3161, 3173, 3185, 3197, 3209, 3221, 3233, 3245, 3257, 3269, 3281, 3293, 3305, 3317, 3329, 3341, 3353, 3365, 3377, 3389, 3401, 3413, 3425, 3437, 3449, 3461, 3473, 3485, 3497, 3509, 3521, 3533, 3545, 3557)
+* in more\equipment_description.txt:
+changed "Godbless " to "GodBlessed " (line 14)
+changed "sophisticated" to "superior" (line 23)
+changed "witcher" to "sorcerer" on a significant number of lines.
+corrected the spacing around kamas throughout the file. Anytime multiple classes can use an item, the space was before the kama instead of after.
+changed "Shoulders" to "Pauldrons" (lines 95, 182, 212, 476, 713, 743, 977, 1508, 1775)
+slightly modified the soft pouch description to better explain the carrying modifier. (line 173)
+took the space out of "fighter 's" to make it "fighter's" (line 179)
+changed "magic from Wisdom" to "magical Wisdom" (line 299)
+changed "forgiving from heart" to "heart's forgiveness" (line 359)
+changed "sacrifice" to "sacrificial" in a number of lines.
+changed "toxin" to "toxic" in a number of lines.
+changed "scale" to "fang" (line 1484)
+changed "inspire" to "inspiring" to bring it in line with the other weapons of this level (line 965)
+changed "terror" to "terrifying" to bring it in line with other weapons of this level (line 968)
+changed "shorts" to "pants" because it highly confuses me why an assassin would leave skin exposed (lines 1049, 1316, 1580)
+changed "expert of hunting" to "hunting expert medal" (line 2105)
+changed "apprentice of hunting" to "hunting apprentice medal" (line 2108)
+added "player" after "place" (lines 2012, 2030)
+changed "top three" to "2nd and 3rd place" (lines 2015, 2033)
+changed "top six" to "4th through 6th place" (lines 2018, 2036)
+changed "top ten" to "7th through 10th place" (lines 2021, 2039)
+changed "top thirty" to "11th through 30th place" (lines 2024, 2042)
+changed "top 100 " to "31st through 100th place" (lines 2027, 2045)
+changed the dash representing the word "to" to "and" (line 2096)
+changed the dash representing the word "to" to "through" (line 2099)
+changed "top 30" to "11th through 30th place" (line 2102)
+changed "top 60" to "31st through 60th place" (line 2105)
+changed "top 100" to "61st through 100th place" (line 2108)
+removed the dashes in matching lines and replaced them with "to" in all appropriate places.
+added an extra space before "heat" in the description of the hot bag to match the game's output string.
+changed "eagle fur" to "eagle feathers" (lines 530, 539, 548)
+* in more\equipment_plus.txt:
+changed "casting skills" to "using skills" (lines 11, 20, 26, 32, 38, 47, 53, 59, 68, 74, 77, 83, 86)
+changed "increase" to "increases by" on each instance found.
+changed "reduce" to "reduces by" in each instance found.
+* in more\fusion beast_description.txt:
+changed all fusion beasts to show the speed modifier rather than the total speed before gems. to make it more understandable.
+changed "speed" to "speed modifier" given they're all showing the amount it increases, rather than the total speed before gems.
+* in more\item.txt:
+changed "Cattle" to "Cow" (lines 2501, 2504, 2507, 2510, 2513, 2777)
+* in more\item_description.txt:
+changed "Cattle" to "Cow" (lines 1994, 1997, 2000, 2003, 2006)
+
+2023-7-10
+fix error on line 658, 659, 667 and 668
+Replace the incorrect phrase "dead-protect" with the correct phrase "dead to protect"
+Thank you all for your translation work, and sorry for the inconvenience. We will also fix errors in non-English translations that you submit at the same time. Please keep an eye on our website.
+
+2023-6-12
+\more\role_description_npc.txt
+In this file, replace any misspelled word citizen with Civilia.
+
+2023-2-26
+From the Mist World team
+1. Add text "role_description_player.txt", "equipment_plus.txt".
+
+2023-2-19
+From the Mist World team
+1. Corrected all text errors with two spaces to the correct one space.
+2. Added translated strings for pet skill different level display to combat skill.txt at the end of the text.

@@ -1,0 +1,11 @@
+ {s};{s};recycling price {d} {s}
+ {sub2{$1}sub2};{sub2{$2}sub2};recycling price $3 {sub2{$4}sub2}
+
+Crafting {s};needs{d} {s};{s}  level {d} can use
+Crafting {sub2{$1}sub2};needs $2 {sub2{$3}sub2};{sub2{$4}sub2}  level $5 can use
+
+forging  {s};{s} , Enhancement level increased from {d} to {d}, requires 1 Level {d} Equipment Enhance Crystal, costs {d} arnebia
+forging  {sub2{$1}sub2};{sub2{$2}sub2} , Enhancement level increased from $3 to $4, requires 1 Level $5 Equipment Enhance Crystal, costs $6 arnebia
+
+{s};{s} ;enhancement level: {d}
+{sub2{$1}sub2};{sub2{$2}sub2} ;enhancement level: $3

@@ -1,0 +1,26 @@
+Navigate to your Mist World folder. If you installed Mist World with the default path it should be in your C drive folder.
+
+You can copy and paste the folder included here, called "config" directly into the Mist World folder and allow it to "replace" with the file structure already built for you, or use the folder path here to find the .ini file yourself.
+
+The specific lines modified are included below:
+
+W_CHAT_UP=NUMPAD9
+W_CHAT_DOWN=NUMPAD3
+W_CHAT_HOME=SHIFT+NUMPAD9
+W_CHAT_END=SHIFT+NUMPAD3
+W_CHAT_CHANNEL_UP=LCTRL+NUMPAD9
+W_CHAT_CHANNEL_DOWN=LCTRL+NUMPAD3
+W_PRIVATE_CHAT_UP=ALT+NUMPAD9
+W_PRIVATE_CHAT_DOWN=ALT+NUMPAD3
+W_PRIVATE_CHAT_HOME=SHIFT+ALT+NUMPAD9
+W_PRIVATE_CHAT_END=SHIFT+ALT+NUMPAD3
+W_PRIVATE_CHAT_ROLE_UP=LCTRL+ALT+NUMPAD9
+W_PRIVATE_CHAT_ROLE_DOWN=LCTRL+ALT+NUMPAD3
+W_PRIVATE_CHAT_ROLE_HOME=LCTRL+SHIFT+ALT+NUMPAD9
+W_PRIVATE_CHAT_ROLE_END=LCTRL+SHIFT+ALT+NUMPAD3
+W_SYSMSG_UP=NUMPAD7
+W_SYSMSG_DOWN=NUMPAD1
+W_SYSMSG_HOME=SHIFT+NUMPAD7
+W_SYSMSG_END=SHIFT+NUMPAD1
+
+At this time, I haven't figured out how to include both possible options, but will be exploring that concept further.
