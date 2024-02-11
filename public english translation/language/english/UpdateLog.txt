@@ -1,5 +1,10 @@
 Recent Changes
-2023/01/02
+2023/02/08
+sroath's modifications
+put in a translation in the system.txt file for the chinese new year giftbox.
+corrected an oversight in the new year's giftbox translation that wasn't including the kamas.
+
+2023/01/01
 sroath's modifications
 added a translation in the "is damaged" strings that go to the system log when gear breaks to add a space where there was none separating the item from the message.
 added a couple more gang specific strings, translating 1st, 2nd, and 3rd in a few places.
@@ -12,7 +17,6 @@ Added lines to properly translate the stackable items in the market place.
 Added an extra "cattle" vs "cow" line to the role_pet.txt file due to edge cases of uncommon whitespace.
 took out the unnecessary s in the description of purification.
 changed the multiple "and"s in gift boxes to kamas.
-started modifying pet descriptions
 
 2023/09/11
 Sroath's modifications

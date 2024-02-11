@@ -4,9 +4,6 @@ male
 female 
 female 
 
-; level {d}
-; level $1
-
 ; upgrading requires {d} experience
 ; upgrading requires $1 experience
 
@@ -51,12 +48,6 @@ no set bonus
 
 {c} {c} Set of equipments
 {sub2{(1($1 $2 Set)1)}sub2} of equipments
-
-; increase {d}% attack damage
-; increase $1% attack damage
-
-; reduce {d}% damage taken during defense
-; reduce $1% damage taken during defense
 
  holding {t}\>\|\|\<{n}
  holding {sub2{$1>||<$2}sub2}
@@ -121,107 +112,14 @@ enhance Level $1;quality: {sub2{$2}sub2}
 Enhancement level: {d};quality {s}
 Enhancement level: $1;quality {sub2{$2}sub2}
 
-state of the insert is:
-state of the insert is:
-
- no socketing
- no socketing
-
-Crimson socket
-Crimson socket
-
-increase maximum HP {d}
-increase maximum HP $1
-
-Dark Blue socket
-Dark Blue socket
-
-increase maximum mana {d}
-increase maximum mana $1
-
-Brown Yellow socket
-Brown Yellow socket
-
-increase physical attack {d}
-increase physical attack $1
-
-Honey Yellow socket
-Honey Yellow socket
-
-increase magic attack {d}
-increase magic attack $1
-
-Pink socket
-Pink socket
-
-increase physical defense {d}
-increase physical defense $1
-
-Blue socket
-Blue socket
-
-increase magic defense {d}
-increase magic defense $1
-
-Dark Purple socket
-Dark Purple socket
-
-increase hit chance {d}
-increase hit chance $1
-
-Dark Yellow socket
-Dark Yellow socket
-
-increase dodge chance {d}
-increase dodge chance $1
-
-Blue purple socket
-Blue purple socket
-
-increase defense break chance {d}
-increase defense break chance $1
-
-Dark green socket
-Dark green socket
-
-increase defense break damage {d}
-increase defense break damage $1
-
-Golden yellow socket
-Golden yellow socket
-
-increase toughness {d}
-increase toughness $1
-
-Black socket
-Black socket
-
-increase critical hit chance {d}
-increase critical hit chance $1
-
-Orange socket
-Orange socket
-
-increase critical hit damage {d}
-increase critical hit damage $1
-
-White socket
-White socket
-
-increase critical hit resistance {d}
-increase critical hit resistance $1
-
-Emerald Green socket
-Emerald Green socket
-
-increase movement speed {d}
-increase movement speed $1
-
 level {d} ;available for priest ,witcher  
 level $1;available for priest, sorcerer
 
 level {d} ;available for mage ,elf ,priest ,witcher  
 level $1;available for mage, elf, priest, sorcerer
+
+level {d} ;available for witcher  
+level $1;available for sorcerer
 
 Ordinary bronze Set
 Ordinary bronze Set

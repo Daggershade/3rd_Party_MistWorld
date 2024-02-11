@@ -1,3 +1,6 @@
+11st
+11th
+
 1th
 1st
 
@@ -192,3 +195,6 @@ Your own ranking is {sub2{$1}sub2}; {sub2{$2}sub2} the prize: {sub2{$3}sub2}
 
 {s} place in the level {d} {s} Arena Fight, {s}, the prize is {s} battlefield merit points
 {sub2{$1}sub2} place in the level $2 {sub2{$3}sub2} Arena Fight, {sub2{$4}sub2}, the prize is {sub2{$5}sub2} battlefield merit points
+
+Take the reward of the {s} Gang Tournament
+Take the reward of the {sub2{$1}sub2} Gang Tournament

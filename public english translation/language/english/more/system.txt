@@ -29,25 +29,46 @@ Got pet {s}
 Got pet {sub2{$1}sub2}
 
 Resurrection Crystal and
-Resurrection Crystal,
+Resurrection Crystal
 
 Memory Butterfly and
-Memory Butterfly,
+Memory Butterfly
 
 Firecracker and
-Firecracker,
+Firecracker
 
 New Year Greeting Card and
-New Year Greeting Card,
+New Year Greeting Card
 
 Chocolate ice cream and
-Chocolate ice cream,
+Chocolate ice cream
 
 Butter ice cream and
-Butter ice cream,
+Butter ice cream
 
 {s};{c} used one New Year Gift Box, send {c} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s} {d} {s}
-{sub2{$1}sub2};$2 used a New Year's Gift Box, sent $3 $4 {sub2{$5}sub2} $6 {sub2{$7}sub2} $8 {sub2{$9}sub2} $10 {sub2{$11}sub2} $12 {sub2{$13}sub2} $14 {sub2{$15}sub2} and $16 {sub2{$17}sub2}
+{sub2{$1}sub2};$2 used a New Year's Gift Box, sent $3 $4 {sub2{$5}sub2}, $6 {sub2{$7}sub2}, $8 {sub2{$9}sub2}, $10 {sub2{$11}sub2}, $12 {sub2{$13}sub2}, $14 {sub2{$15}sub2}, and $16 {sub2{$17}sub2}
 
 {s};{c} used one Beautiful Gift Box, send {c} {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s}
 {sub2{$1}sub2};$2 used a Beautiful Gift Box, sent $3 $4 {sub2{$5}sub2}, $6 {sub2{$7}sub2}, $8 {sub2{$9}sub2}, $10 {sub2{$11}sub2}, and $12 {sub2{$13}sub2}.
+
+Chinese new year Greeting Card and
+Chinese new year Greeting Card
+
+Wish Blessing and
+Wish Blessing
+
+Fortune Blessing and
+Fortune Blessing
+
+Peace Blessing and
+Peace Blessing
+
+Luck Blessing and
+Luck Blessing
+
+Happiness Blessing and
+Happiness Blessing
+
+{s};{c} used one Chinese new year Gift Box, send {c} {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s} and {d} {s}
+{sub2{$1}sub2};$2 used a Chinese new year Gift Box, sent $3 $4 {sub2{$5}sub2}, $6 {sub2{$7}sub2}, $8 {sub2{$9}sub2}, $10 {sub2{$11}sub2}, $12 {sub2{$13}sub2}, $14 {sub2{$15}sub2}, $16 {sub2{$17}sub2}, $18 {sub2{$19}sub2}, $20 {sub2{$21}sub2}, and $22 {sub2{$23}sub2}.
