@@ -1269,3 +1269,6 @@ The newly changed account cannot be changed again within 24 hours!
 
 未开放功能！
 Function not opened!
+
+开启全局音效
+turn on global sounds

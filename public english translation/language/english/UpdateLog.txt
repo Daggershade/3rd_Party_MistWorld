@@ -1,10 +1,15 @@
 Recent Changes
-2023/02/08
+2024/04/01
+Fixed the last two dates in the update log file to have 2024 as the date instead of 2023.
+Added the global sounds setting to the translation pack.
+Made a translation for the private mail you get when a friend request is accepted to sound less like an order and more like an informative comment.
+
+2024/02/08
 sroath's modifications
 put in a translation in the system.txt file for the chinese new year giftbox.
 corrected an oversight in the new year's giftbox translation that wasn't including the kamas.
 
-2023/01/01
+2024/01/01
 sroath's modifications
 added a translation in the "is damaged" strings that go to the system log when gear breaks to add a space where there was none separating the item from the message.
 added a couple more gang specific strings, translating 1st, 2nd, and 3rd in a few places.
