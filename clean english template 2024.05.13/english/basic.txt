@@ -80,10 +80,10 @@ OK (&o)
 cancel (&c)
 
 请输入帐号！
-please enter your account name!
+please enter your account!
 
 帐号格式不正确！
-Account name format is incorrect!
+Account format is incorrect!
 
 请输入密码！
 Please enter your password!
@@ -92,7 +92,7 @@ Please enter your password!
 Illegal password length!
 
 密码格式不正确！
-Incorrect password!
+Password format is incorrect!
 
 连接出错;退出游戏
 Connection error; exiting game
@@ -119,7 +119,7 @@ Email address format is incorrect!
 Resend verification code
 
 请填写帐号！
-Please enter your account name!
+Please enter your account!
 
 请先发送验证码！
 Please send the verification code first!
@@ -137,7 +137,7 @@ account created!
 Congratulations, your registration is successful!
 
 请输入密码（6-16个字符）
-Please enter a password (6 to 16 characters)
+Please enter a password (6-16 characters)
 
 确认密码
 confirm password
@@ -155,7 +155,7 @@ Password length must be 6 to 16 characters!
 Please enter the confirmation password!
 
 密码和确认密码必须相同！
-Password and Confirmation Password must be the same!
+Password and Confirm Password must be the same!
 
 该帐号已注册过了！
 This account is already registered!
@@ -179,7 +179,7 @@ IP registration is too frequent!
 Server error!
 
 删除角色
-delete character
+ delete character
 
 发送邮箱验证码(&S)
 Send Email Verification Code (&S)
@@ -203,7 +203,7 @@ Resend Email Verification Code
 Resend mobile verification code
 
 请先发送邮箱验证码！
-Please send the email verification code first!
+Please send email verification code first!
 
 请先发送手机验证码！
 Please send the mobile verification code first!
@@ -242,7 +242,7 @@ Congratulations, the new password is now in effect!
 Enter a new password
 
 请输入新密码（6-16个字符）
-Please enter a new password (6 to 16 characters)
+Please enter a new password (6-16 characters)
 
 确认新密码
 confirm the new password
@@ -356,7 +356,7 @@ Please input in the player ID or select the object in the session record
 items
 
 装备
-equipment
+equipments
 
 融合兽
 fusion beasts
@@ -497,7 +497,7 @@ Enable NVDA to be the main voice library (need to enable NVDA)
 Enable NVDA to be the secondary voice library (need to enable NVDA)
 
 更换帐号
-switch account
+change account
 
 退出
 quit
@@ -518,7 +518,7 @@ reading all
 reading only system messages
 
 禁止朗读
-reading none
+not allow reading
 
 全部显示
 showing all
@@ -527,7 +527,7 @@ showing all
 showing only system messages
 
 禁止显示
-showing none
+not allow showing
 
 快捷短语设置菜单
 Shortcut phrase setting
@@ -548,7 +548,7 @@ gang announcement
 private message
 
 ,有新
- unread messages
+, with new
 
 上一页
 previous page
@@ -589,9 +589,6 @@ damage:
 最高群体伤害输出玩家:
 Player with the highest group damage output: 
 
-伤害值:
-damage: 
-
 最高单疗伤输出玩家:
 Player with the highest individual healing output: 
 
@@ -608,16 +605,16 @@ Player with the most Debuff and Control:
 affected numbers: 
 
 增益输出最多玩家:
-Player with the most buffs: 
+Player with the most buff: 
 
 解损益最多玩家:
-Player removed the Most Debuffs: 
+Player removed the Most Debuff: 
 
 解损益数:
 Debuffs Removed: 
 
 解增益最多玩家:
-Player removed the Most Buffs: 
+Player removed the Most Buff: 
 
 解增益数:
 Buffs Removed: 
@@ -626,7 +623,7 @@ Buffs Removed:
 Player with the most Resurrections: 
 
 复活数:
- Resurrection Count: 
+ Resurrection Counts: 
 
 己方:
 your side: 
@@ -650,34 +647,34 @@ NPC
 Number of enemies killed by your side: 
 
 敌方杀敌数:
-Number of allies killed by enemies: 
+Number of yours killed by enemies: 
 
 己方杀怪数:
-Number of monsters killed by your side: 
+Number of monsters killed by yours side: 
 
 敌方杀怪数:
 Number of monsters killed by enemies: 
 
 己方伤害总输出:
-allies Total damage output: 
+yours Total damage output: 
 
 敌方伤害总输出:
 enemy's total damage output: 
 
 己方疗伤总输出:
-your total healing output: 
+yours total healing output: 
 
 敌方疗伤总输出:
 enemy's total healing output: 
 
 己方单次最高伤害:
-allies One-time maximum damage: 
+yours One-time maximum damage: 
 
 敌方单次最高伤害:
 enemy's One-time maximum damage: 
 
 己方单次最高疗伤:
-allies One-time maximum healing: 
+yours One-time maximum healing: 
 
 敌方单次最高疗伤:
 enemy's One-time maximum healing: 
@@ -698,76 +695,76 @@ number of turrets destroyed by enemies:
 Number of enemies killed by your side: 
 
 敌方总杀敌数:
-Number of allies killed by enemies: 
+Number of yours killed by enemies: 
 
 己方总杀怪数:
-Number of monsters killed by your side: 
+Number of monsters killed by yours side: 
 
 敌方总杀怪数:
 Number of monsters killed by enemies: 
 
 己方总伤害输出:
-allies Total damage output: 
+yours Total damage output: 
 
 敌方总伤害输出:
 enemy's total damage output: 
 
 己方总疗伤输出:
-allies total healing output: 
+yours total healing output: 
 
 敌方总疗伤输出:
 enemy's total healing output: 
 
 己方总损益输出:
-allies total Debuff output: 
+yours total Debuff output: 
 
 敌方总损益输出:
 enemy's total Debuff output: 
 
 己方总增益输出:
-allies total Buff output: 
+yours total Buff output: 
 
 敌方总增益输出:
 enemy's total Buff output: 
 
 己方总解损益数:
-allies total Debuff remove count: 
+yours total Debuff remove count: 
 
 敌方总解损益数:
 enemy's total Debuff remove count: 
 
 己方总解增益数:
-allies total Buff remove count: 
+yours total Buff remove count: 
 
 敌方总解增益数:
 enemy's total Buff remove count: 
 
 己方总复活人数:
-The total number of allies resurrected:
+The total number of you resurrected:
 
 敌方总复活人数:
 The total number of enemies resurrected:
 
 己方最高单体伤害输出:
-allies highest individual damage output: 
+yours highest individual damage output: 
 
 敌方最高单体伤害输出:
 enemy's highest individual damage output: 
 
 己方最高群体伤害输出:
-allies highest group damage output: 
+yours highest group damage output: 
 
 敌方最高群体伤害输出:
 enemy's highest group damage output: 
 
 己方最高单体疗伤输出:
-allies highest individual healing output: 
+yours highest individual healing output: 
 
 敌方最高单体疗伤输出:
 enemy's highest individual healing output: 
 
 己方最高群体疗伤输出:
-allies highest group healing output: 
+yours highest group healing output: 
 
 敌方最高群体疗伤输出:
 enemy's highest group healing output: 
@@ -776,7 +773,7 @@ enemy's highest group healing output:
 Copy text from window
 
 己方
-allies 
+yours 
 
 敌方
 enemy's 
@@ -872,22 +869,22 @@ Cannot abandon summoned pets
 no item
 
 请填写存入数量
-Please enter the amount to store
+Please enter the deposit amount
 
 没有可存入的物品
-No item available to store
+No item available to deposit
 
 没有装备
 No equipment
 
 没有可存入的装备
-No equipment available to store
+No equipment available to deposit
 
 没有融合兽
 no fusion beast
 
 没有可存入的融合兽
-No fusion beasts available to store
+No fusion beasts available to deposit
 
 请填写要出售的数量
 Please enter the quantity to be sold
@@ -932,7 +929,7 @@ gang mode
 team mode
 
 所有模式
-all mode
+all modes
 
 无法查看自己
 cannot contact yourself
@@ -944,7 +941,7 @@ cannot talk to yourself
 starting to follow
 
 停止跟随
-stopped following
+stopping to follow
 
 安全区禁用技能
 Safe zone disabled skills
@@ -989,7 +986,7 @@ Illegal login; exiting game
 This computer is prohibited from entering; exiting game
 
 用户名错误;退出游戏
-Wrong account name; exiting game
+Wrong username; exiting game
 
 密码错误;退出游戏
 Wrong password; exiting game
@@ -1024,11 +1021,8 @@ Enter your nickname; it needs to be between 4 and 12 characters
 上次进入：
 last access: 
 
-删除角色
- delete character
-
 该角色十天内登录过,不能删除!
-This character has been logged in in the last ten days, and cannot be deleted!
+This character has been logged in in ten days, and cannot be deleted!
 
 该功能可将已注册的帐号修改成还没注册过的邮箱/手机，修改后的帐号需要重新找回密码后登录，确定继续吗？
 This function can be used to change the registered account to an email that has not been registered. The modified account needs to reset password before login. Are you sure you want to continue?
@@ -1073,7 +1067,7 @@ private
 joined
 
 已移出
-removed
+remuved
 
 系统
 system 
@@ -1220,7 +1214,7 @@ crude
 common 
 
 精良
-superior 
+sophisticated 
 
 完美
 perfect 
@@ -1244,7 +1238,7 @@ Epic
 Heavenly 
 
 神佑
-Blessed 
+Godbless 
 
 (绑定)
  (bound) 
@@ -1265,7 +1259,7 @@ The newly changed account cannot be changed again within 24 hours!
 Function not opened!
 
 开启全局音效
-turn on global sounds
+Enable global sound effects
 
 提示
 Prompt 

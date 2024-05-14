@@ -1,5 +1,12 @@
 Recent Changes
+2024/05/13
+sroath's modifications
+Added the new channel system's translated lines to the basic.txt file
+added a secondary line translation for when a friend accepts your request and the message is still new.
+added two translation lines for when sending or receiving private messages to put a space between "private chat" and the character variable call.
+
 2024/04/01
+sroath's modifications
 Fixed the last two dates in the update log file to have 2024 as the date instead of 2023.
 Added the global sounds setting to the translation pack.
 Made a translation for the private mail you get when a friend request is accepted to sound less like an order and more like an informative comment.

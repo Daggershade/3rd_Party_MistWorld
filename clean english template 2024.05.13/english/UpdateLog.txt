@@ -1,0 +1,18 @@
+Recent Changes
+2023-7-10
+fix error on line 658, 659, 667 and 668
+Replace the incorrect phrase "dead-protect" with the correct phrase "dead to protect"
+Thank you all for your translation work, and sorry for the inconvenience. We will also fix errors in non-English translations that you submit at the same time. Please keep an eye on our website.
+
+2023-6-12
+\more\role_description_npc.txt
+In this file, replace any misspelled word citizen with Civilia.
+
+2023-2-26
+From the Mist World team
+1. Add text "role_description_player.txt", "equipment_plus.txt".
+
+2023-2-19
+From the Mist World team
+1. Corrected all text errors with two spaces to the correct one space.
+2. Added translated strings for pet skill different level display to combat skill.txt at the end of the text.

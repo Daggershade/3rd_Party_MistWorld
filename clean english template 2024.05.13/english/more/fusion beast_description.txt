@@ -1,0 +1,131 @@
+Behemoth Beast; speed 6.2; strengthen HP 10100 MP 13700 physical Defense 53 magic Defense 51;plus: Disable Skill; level 40;Transform into a Behemoth with a large stature and can travel very fast.
+Behemoth Beast; speed 6.2; strengthen HP 10100 MP 13700 physical Defense 53 magic Defense 51;plus: Disable Skill; level 40;Transform into a Behemoth with a large stature and can travel very fast.
+
+Behemoth Lord Beast; speed 6.2; strengthen HP 10100 MP 13700 physical Defense 53 magic Defense 51;plus: Disable Skill; level 40;The transformation does not cost any fusion power; A rare breed of behemoth with a giant golden body.
+Behemoth Lord Beast; speed 6.2; strengthen HP 10100 MP 13700 physical Defense 53 magic Defense 51;plus: Disable Skill; level 40;The transformation does not cost any fusion power; A rare breed of behemoth with a giant golden body.
+
+Thunderbird; speed 7.0; strengthen HP 14500 MP 19600 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;Transform into a Thunderbird with the speed of lightning.
+Thunderbird; speed 7.0; strengthen HP 14500 MP 19600 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;Transform into a Thunderbird with the speed of lightning.
+
+Thunderbird Lord; speed 7.0; strengthen HP 14500 MP 19600 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;The transformation does not cost any fusion power; A rare breed of Thunderbird; a flashing electric spirit.
+Thunderbird Lord; speed 7.0; strengthen HP 14500 MP 19600 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;The transformation does not cost any fusion power; A rare breed of Thunderbird; a flashing electric spirit.
+
+Wind Spirit Guardian; speed 7.8; strengthen HP 20300 MP 27400 physical Defense 105 magic Defense 102;plus: Disable Skill; level 90;There are soft little whirlwinds blowing around the wind spirit. Its wind elemental blessing will grant you wind-like speed.
+Wind Spirit Guardian; speed 7.8; strengthen HP 20300 MP 27400 physical Defense 105 magic Defense 102;plus: Disable Skill; level 90;There are soft little whirlwinds blowing around the wind spirit. Its wind elemental blessing will grant you wind-like speed.
+
+Super Wind Spirit Guardian; speed 7.8; strengthen HP 20300 MP 27400 physical Defense 105 magic Defense 102;plus: Disable Skill; level 90;The transformation does not cost any fusion power; There are soft little whirlwinds blowing around the super wind spirit. Its wind elemental blessing will grant you wind-like speed.
+Super Wind Spirit Guardian; speed 7.8; strengthen HP 20300 MP 27400 physical Defense 105 magic Defense 102;plus: Disable Skill; level 90;The transformation does not cost any fusion power; There are soft little whirlwinds blowing around the super wind spirit. Its wind elemental blessing will grant you wind-like speed.
+
+Phantom Wyvern; speed 7.6; strengthen HP 18600 MP 25100 physical Defense 105 magic Defense 102;plus: Disable Skill; level 1;The transformation does not cost any fusion power; The Lord of the Sky with extremely fast flight speed.
+Phantom Wyvern; speed 7.6; strengthen HP 18600 MP 25100 physical Defense 105 magic Defense 102;plus: Disable Skill; level 1;The transformation does not cost any fusion power; The Lord of the Sky with extremely fast flight speed.
+
+Bluish White Horse; speed 4.8; strengthen HP 3000 MP 4000 physical Defense 19 magic Defense 18;plus: Disable Skill; level 40;A horse with a mixed color of blue and white.
+Bluish White Horse; speed 4.8; strengthen HP 3000 MP 4000 physical Defense 19 magic Defense 18;plus: Disable Skill; level 40;A horse with a mixed color of blue and white.
+
+Bluish White Horse—Cloud; speed 4.9; strengthen HP 3000 MP 4000 physical Defense 19 magic Defense 18;plus: Disable Skill; level 45;It has flowing green mane and a snow-white body.
+Bluish White Horse—Cloud; speed 4.9; strengthen HP 3000 MP 4000 physical Defense 19 magic Defense 18;plus: Disable Skill; level 45;It has flowing green mane and a snow-white body.
+
+Nightmare Beast; speed 5.2; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell.
+Nightmare Beast; speed 5.2; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell.
+
+Nightmare of Ice; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell. Its dark eye sockets are glowing with two rays of blue light.
+Nightmare of Ice; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell. Its dark eye sockets are glowing with two rays of blue light.
+
+Nightmare of Fire; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell. Its dark eye sockets are glowing with two rays of red light.
+Nightmare of Fire; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell. Its dark eye sockets are glowing with two rays of red light.
+
+Nightmare of Blood; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell. There is a blood-red pattern on its white skeleton of a body.
+Nightmare of Blood; speed 5.3; strengthen HP 7130 MP 9650 physical Defense 44 magic Defense 43;plus: Disable Skill; level 70;An undead creature from hell. There is a blood-red pattern on its white skeleton of a body.
+
+Wind Chaser; speed 5.6; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;A tall horse with black and bright hair.
+Wind Chaser; speed 5.6; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;A tall horse with black and bright hair.
+
+Wind Chaser—Precipice; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;It has curly golden hair all over its body without any mottled color, and can run without trampling on the ground.
+Wind Chaser—Precipice; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;It has curly golden hair all over its body without any mottled color, and can run without trampling on the ground.
+
+Wind Chaser—Shadow; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;It has black and bright hair and a white crescent on its forehead. Its speed allows it to race with the sun.
+Wind Chaser—Shadow; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;It has black and bright hair and a white crescent on its forehead. Its speed allows it to race with the sun.
+
+Wind Chaser—Mist; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;The transformation does not cost any fusion power; It has a snow-white body, and can run as if riding on clouds.
+Wind Chaser—Mist; speed 5.7; strengthen HP 12000 MP 16300 physical Defense 75 magic Defense 73;plus: Disable Skill; level 70;The transformation does not cost any fusion power; It has a snow-white body, and can run as if riding on clouds.
+
+Small Wind Chaser; speed 5.0; strengthen HP 6000 MP 8000 physical Defense 37 magic Defense 36;plus: Disable Skill; level 55;It has black and bright hair and a nimble body.
+Small Wind Chaser; speed 5.0; strengthen HP 6000 MP 8000 physical Defense 37 magic Defense 36;plus: Disable Skill; level 55;It has black and bright hair and a nimble body.
+
+Fire-Capped Tit; speed 6.0; strengthen HP 16800 MP 22800 physical Defense 105 magic Defense 102;plus: Disable Skill; level 90;Its whole body is fiery red, has a red plume on the top of its head, and can produce flame around it.
+Fire-Capped Tit; speed 6.0; strengthen HP 16800 MP 22800 physical Defense 105 magic Defense 102;plus: Disable Skill; level 90;Its whole body is fiery red, has a red plume on the top of its head, and can produce flame around it.
+
+Blue fire plume; speed 6.1; strengthen HP 16900 MP 22900 physical Defense 107 magic Defense 104;plus: Disable Skill; level 90;Its whole body is fiery blue, has a red plume on the top of its head, and can produce flame around it.
+Blue fire plume; speed 6.1; strengthen HP 16900 MP 22900 physical Defense 107 magic Defense 104;plus: Disable Skill; level 90;Its whole body is fiery blue, has a red plume on the top of its head, and can produce flame around it.
+
+Black fire plume; speed 6.2; strengthen HP 17000 MP 27000 physical Defense 109 magic Defense 104;plus: Disable Skill; level 90;Its whole body is fiery black, has a red plume on the top of its head, and can produce flame around it.
+Black fire plume; speed 6.2; strengthen HP 17000 MP 27000 physical Defense 109 magic Defense 104;plus: Disable Skill; level 90;Its whole body is fiery black, has a red plume on the top of its head, and can produce flame around it.
+
+White fire plume; speed 6.2; strengthen HP 17000 MP 27000 physical Defense 109 magic Defense 106;plus: Disable Skill; level 90;The transformation does not cost any fusion power; Its whole body is fiery white, has a red plume on the top of its head, and can produce flame around it.
+White fire plume; speed 6.2; strengthen HP 17000 MP 27000 physical Defense 109 magic Defense 106;plus: Disable Skill; level 90;The transformation does not cost any fusion power; Its whole body is fiery white, has a red plume on the top of its head, and can produce flame around it.
+
+Unicorn; speed 6.6; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;A sacred creature with a snow-white body.
+Unicorn; speed 6.6; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;A sacred creature with a snow-white body.
+
+Unicorn—Lightning; speed 6.7; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;A sacred creature with a snow-white body that runs like a white lightning.
+Unicorn—Lightning; speed 6.7; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;A sacred creature with a snow-white body that runs like a white lightning.
+
+Unicorn—Light Chaser; speed 6.8; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;A sacred creature with a snow-white body; a light chaser from heaven.
+Unicorn—Light Chaser; speed 6.8; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;A sacred creature with a snow-white body; a light chaser from heaven.
+
+Unicorn Lord; speed 6.8; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;The transformation does not cost any fusion power; A sacred creature with a snow-white body; has a taller and stronger body than its kind.
+Unicorn Lord; speed 6.8; strengthen HP 20200 MP 27400 physical Defense 126 magic Defense 123;plus: Disable Skill; level 100;The transformation does not cost any fusion power; A sacred creature with a snow-white body; has a taller and stronger body than its kind.
+
+Rock Spirit Beast Guardian; speed 3.6; strengthen HP 4300 MP 5800 physical attack 33 magic attack 32 physical Defense 22 magic Defense 21;plus: ; level 40;Rock Spirits like to bump their fists to show their strength.
+Rock Spirit Beast Guardian; speed 3.6; strengthen HP 4300 MP 5800 physical attack 33 magic attack 32 physical Defense 22 magic Defense 21;plus: ; level 40;Rock Spirits like to bump their fists to show their strength.
+
+Ice Scale Leopard; speed 3.6; strengthen HP 7200 MP 9900 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37;plus: ; level 65;A mighty demon clad in ice scales.
+Ice Scale Leopard; speed 3.6; strengthen HP 7200 MP 9900 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37;plus: ; level 65;A mighty demon clad in ice scales.
+
+Ghost baby Guardian; speed 3.6; strengthen HP 12100 MP 16400 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 80;Ghost babies think they are adorable, yet they always scare people away when they try to play with humans. If you are willing to be friends with it, it will surely help you as much as it can.
+Ghost baby Guardian; speed 3.6; strengthen HP 12100 MP 16400 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 80;Ghost babies think they are adorable, yet they always scare people away when they try to play with humans. If you are willing to be friends with it, it will surely help you as much as it can.
+
+Shadow Wolf; speed 3.6; strengthen HP 17100 MP 23200 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 90;A terrifying killer that lurks in the dark.
+Shadow Wolf; speed 3.6; strengthen HP 17100 MP 23200 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 90;A terrifying killer that lurks in the dark.
+
+Angel Baby Guardian; speed 3.6; strengthen HP 24300 MP 32900 physical attack 189 magic attack 185 physical Defense 126 magic Defense 123;plus: ; level 100;The cute Angel Baby will emit holy light and gather the holy light energy scattered around to help you.
+Angel Baby Guardian; speed 3.6; strengthen HP 24300 MP 32900 physical attack 189 magic attack 185 physical Defense 126 magic Defense 123;plus: ; level 100;The cute Angel Baby will emit holy light and gather the holy light energy scattered around to help you.
+
+Iron Beetle; speed 3.6; strengthen HP 3000 MP 4000 physical attack 29 magic attack 27 physical Defense 19 magic Defense 18;plus: ; level 45;When fused with Iron Beetle, you will turn into insectoid form.
+Iron Beetle; speed 3.6; strengthen HP 3000 MP 4000 physical attack 29 magic attack 27 physical Defense 19 magic Defense 18;plus: ; level 45;When fused with Iron Beetle, you will turn into insectoid form.
+
+Firefly; speed 3.6; strengthen HP 3500 MP 4800 physical attack 33 magic attack 32 physical Defense 22 magic Defense 21;plus: ; level 50;When fused with Firefly, you will turn into insectoid form.
+Firefly; speed 3.6; strengthen HP 3500 MP 4800 physical attack 33 magic attack 32 physical Defense 22 magic Defense 21;plus: ; level 50;When fused with Firefly, you will turn into insectoid form.
+
+Werewolf; speed 3.6; strengthen HP 6000 MP 8100 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37;plus: ; level 65;Transform into a werewolf and obtain an incredible physique.
+Werewolf; speed 3.6; strengthen HP 6000 MP 8100 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37;plus: ; level 65;Transform into a werewolf and obtain an incredible physique.
+
+Sea Spirit Guardian; speed 3.6; strengthen HP 6000 MP 8100 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37;plus: ; level 65;Sea Spirit will sometimes wield its water-condensed whip to show the power of the sea.
+Sea Spirit Guardian; speed 3.6; strengthen HP 6000 MP 8100 physical attack 57 magic attack 56 physical Defense 38 magic Defense 37;plus: ; level 65;Sea Spirit will sometimes wield its water-condensed whip to show the power of the sea.
+
+Minotaur; speed 3.6; strengthen HP 10000 MP 13600 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 85;Transform into a Minotaur and obtain unparalleled strength.
+Minotaur; speed 3.6; strengthen HP 10000 MP 13600 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 85;Transform into a Minotaur and obtain unparalleled strength.
+
+Blood spirit guardian; speed 3.6; strengthen HP 10000 MP 13600 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 85;Blood Spirits love to play with their daggers. As guardian spirits, they cannot attack enemies, but they can give you all their power.
+Blood spirit guardian; speed 3.6; strengthen HP 10000 MP 13600 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 85;Blood Spirits love to play with their daggers. As guardian spirits, they cannot attack enemies, but they can give you all their power.
+
+Mammoth; speed 3.6; strengthen HP 14200 MP 19300 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 95;Ancient creatures that are brave and skilled in battle.
+Mammoth; speed 3.6; strengthen HP 14200 MP 19300 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 95;Ancient creatures that are brave and skilled in battle.
+
+Flame Spirit Guardian; speed 3.6; strengthen HP 14200 MP 19300 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 95;The lively and active flame spirits love to play with fireballs.
+Flame Spirit Guardian; speed 3.6; strengthen HP 14200 MP 19300 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 95;The lively and active flame spirits love to play with fireballs.
+
+Glacier Giant Bear; speed 3.6; strengthen HP 14400 MP 19500 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 85;A giant creature from the depths of the Silver Snow Mountain.
+Glacier Giant Bear; speed 3.6; strengthen HP 14400 MP 19500 physical attack 134 magic attack 131 physical Defense 89 magic Defense 87;plus: ; level 85;A giant creature from the depths of the Silver Snow Mountain.
+
+Polar Ice Bear; speed 3.6; strengthen HP 10200 MP 13800 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 70;The Great White Bear from the Extremely Cold Lands.
+Polar Ice Bear; speed 3.6; strengthen HP 10200 MP 13800 physical attack 95 magic attack 92 physical Defense 63 magic Defense 61;plus: ; level 70;The Great White Bear from the Extremely Cold Lands.
+
+Frost Spirit Guardian; speed 3.6; strengthen HP 20000 MP 27000 physical attack 189 magic attack 185 physical Defense 126 magic Defense 123;plus: ; level 100;Frost Spirits have magnificent ice blue bodies. These beautiful creatures are not easy to approach.
+Frost Spirit Guardian; speed 3.6; strengthen HP 20000 MP 27000 physical attack 189 magic attack 185 physical Defense 126 magic Defense 123;plus: ; level 100;Frost Spirits have magnificent ice blue bodies. These beautiful creatures are not easy to approach.
+
+Radiation-proof armor; speed 3.6;plus: ; level 1;Grants you immunity to radiation damage.
+Radiation-proof armor; speed 3.6;plus: ; level 1;Grants you immunity to radiation damage.
+
+Bullfinch; speed 3.6;plus: ; level 1;A common bird in Fred Forest.
+Bullfinch; speed 3.6;plus: ; level 1;A common bird in Fred Forest.

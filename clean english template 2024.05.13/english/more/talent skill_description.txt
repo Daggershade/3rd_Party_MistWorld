@@ -1,0 +1,467 @@
+ Newbie; experience is full
+ Newbie; experience is full
+
+ Newbie; experience {d}/{d}
+ Newbie; experience $1/$2
+
+ Oldhand; experience is full
+ Oldhand; experience is full
+
+ Oldhand; experience {d}/{d}
+ Oldhand; experience $1/$2
+
+ Elite; experience is full
+ Elite; experience is full
+
+ Elite; experience {d}/{d}
+ Elite; experience $1/$2
+
+ Expert; experience is full
+ Expert; experience is full
+
+ Expert; experience {d}/{d}
+ Expert; experience $1/$2
+
+ Master; experience is full
+ Master; experience is full
+
+ Master; experience {d}/{d}
+ Master; experience $1/$2
+
+ Grand Master
+ Grand Master
+
+Snuggle; A married couple can use Snuggle on each other to slowly recover HP for themselves.
+Snuggle; A married couple can use Snuggle on each other to slowly recover HP for themselves.
+
+Blood Transfusion; Transfer your HP to your Pupil. The pupil must be within 20 yards of the tutor.
+Blood Transfusion; Transfer your HP to your Pupil. The pupil must be within 20 yards of the tutor.
+
+Mining{s}; Use the Mining Skill to mine ores in the specified Mining Area.
+Mining{sub2{$1}sub2}; Use the Mining Skill to mine ores in the specified Mining Area.
+
+Collect Herbs{s}; Use the Collect Herbs Skill to collect herbs in the specified Herbal Garden.
+Collect Herbs{sub2{$1}sub2}; Use the Collect Herbs Skill to collect herbs in the specified Herbal Garden.
+
+Fishing{s}; Use the Fishing Skill to catch fish in the specified Water area.
+Fishing{sub2{$1}sub2}; Use the Fishing Skill to catch fish in the specified Water area.
+
+Draw Blood{s}; Use the Draw Blood Skill to draw blood from the creature that has just been killed.
+Draw Blood{sub2{$1}sub2}; Use the Draw Blood Skill to draw blood from the creature that has just been killed.
+
+Cut Flesh{s}; Use the Cut Flesh Skill to Cut meat of different qualities on the creature that has just been killed.
+Cut Flesh{sub2{$1}sub2}; Use the Cut Flesh Skill to Cut meat of different qualities on the creature that has just been killed.
+
+Skinning{s}; Use the Skinning Skill to collect pelt from the creature that has just been killed.
+Skinning{sub2{$1}sub2}; Use the Skinning Skill to collect pelt from the creature that has just been killed.
+
+activated; takes {d} talent point; 
+activated; takes $1 talent point; 
+
+not activated; 
+not activated; 
+
+Turtle Breath; {s}Immune to breath-holding terrain damage
+Turtle Breath; {sub2{$1}sub2}Immune to breath-holding terrain damage
+
+Anti-Corrosion; {s}Immune to corrosive terrain effect damage
+Anti-Corrosion; {sub2{$1}sub2}Immune to corrosive terrain effect damage
+
+Poison Immunity; {s}Immune to Poisoned Terrain Effect Damage
+Poison Immunity; {sub2{$1}sub2}Immune to Poisoned Terrain Effect Damage
+
+Combat Stance; {s}Increase 4% damage.
+Combat Stance; {sub2{$1}sub2}Increase 4% damage.
+
+Cleave Combo; {s}When you use Sweep Attack after Cleave, increase 15% damage of Sweep Attack. Require Combat Stance.
+Cleave Combo; {sub2{$1}sub2}When you use Sweep Attack after Cleave, increase 15% damage of Sweep Attack. Require Combat Stance.
+
+Powerful Leap Attack; {s}After you use Leap Slash, global CD will be reduced to 50%. Increase 33% attack damage for 1 second. Require Combat Stance.
+Powerful Leap Attack; {sub2{$1}sub2}After you use Leap Slash, global CD will be reduced to 50%. Increase 33% attack damage for 1 second. Require Combat Stance.
+
+Fighting Expert; {s}Increase 4% physical attack. Require Combat Stance.
+Fighting Expert; {sub2{$1}sub2}Increase 4% physical attack. Require Combat Stance.
+
+Defensive Stance; {s}Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Combat Stance and Defensive Stance cannot be used at the same time.
+Defensive Stance; {sub2{$1}sub2}Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Combat Stance and Defensive Stance cannot be used at the same time.
+
+Sturdy Sentry; {s}Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+Sturdy Sentry; {sub2{$1}sub2}Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+
+Defensive Barrier; {s}Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+Defensive Barrier; {sub2{$1}sub2}Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+
+Precise Block; {s}Increase 8% physical defense and 10% magic defense, require defensive stance.
+Precise Block; {sub2{$1}sub2}Increase 8% physical defense and 10% magic defense, require defensive stance.
+
+Severe Wound; {s}When Cleave deals a critical hit, it increases 40% Bleeding effect on target for 15 seconds.
+Severe Wound; {sub2{$1}sub2}When Cleave deals a critical hit, it increases 40% Bleeding effect on target for 15 seconds.
+
+Sixth Sense; {s}Increase 4% dodge.
+Sixth Sense; {sub2{$1}sub2}Increase 4% dodge.
+
+Rampage Stance; {s}Increase 6% damage and 2% of all damage taken.
+Rampage Stance; {sub2{$1}sub2}Increase 6% damage and 2% of all damage taken.
+
+Cruel; {s}Each time you hit the target, Increase 10 Critical Hit of the next attack. Reset After Triggering Critical Hit. Require Rampage Stance.
+Cruel; {sub2{$1}sub2}Each time you hit the target, Increase 10 Critical Hit of the next attack. Reset After Triggering Critical Hit. Require Rampage Stance.
+
+Enrage; {s}Enrage is triggered when Bloodthirsty deals a critical hit. Increase 100% attack speed and 30% of all damage taken for 2 seconds. Require Rampage Stance.
+Enrage; {sub2{$1}sub2}Enrage is triggered when Bloodthirsty deals a critical hit. Increase 100% attack speed and 30% of all damage taken for 2 seconds. Require Rampage Stance.
+
+Unruly Rage; {s}Increase 20% damage during Enrage.
+Unruly Rage; {sub2{$1}sub2}Increase 20% damage during Enrage.
+
+Defensive Stance; {s}Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Rampage Stance and Defensive Stance cannot be used at the same time.
+Defensive Stance; {sub2{$1}sub2}Reduce 3% attack damage. When you take damage, you gain 1 additional rage for each additional 1% damage taken. Rampage Stance and Defensive Stance cannot be used at the same time.
+
+Sturdy Sentry; {s}Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+Sturdy Sentry; {sub2{$1}sub2}Give several buffs to Defensive Stance. Increase 10 points of dodge. Reduce 2% chance of taking physical critical hit. Reduce 3% chance of taking Defense Break. Require Defensive Stance.
+
+Defensive Barrier; {s}Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+Defensive Barrier; {sub2{$1}sub2}Reduce 3% attack damage. When you take damage, you gain 1 more additional rage for each 2% damage taken. Require Defensive Stance.
+
+Ancestral Protection; {s}Reduce 3% attack damage and increase 8% healing effect. Require Defensive Stance.
+Ancestral Protection; {sub2{$1}sub2}Reduce 3% attack damage and increase 8% healing effect. Require Defensive Stance.
+
+Ruthless; {s}Each attack gives you 1 additional rage.
+Ruthless; {sub2{$1}sub2}Each attack gives you 1 additional rage.
+
+Strength of Giant; {s}Increase 4% damage.
+Strength of Giant; {sub2{$1}sub2}Increase 4% damage.
+
+Assassin's Determination; {s}Increase 3% damage. Increase Maximum Combo by 2.
+Assassin's Determination; {sub2{$1}sub2}Increase 3% damage. Increase Maximum Combo by 2.
+
+Mental Barrier; {s}Increase 12% physical defense and 10% magic defense. Require Assassin's Determination.
+Mental Barrier; {sub2{$1}sub2}Increase 12% physical defense and 10% magic defense. Require Assassin's Determination.
+
+Seal Fate; {s}When your attack deals a critical hit on a target, each critical hit gives you 1 additional combo. Require Assassin's Determination.
+Seal Fate; {sub2{$1}sub2}When your attack deals a critical hit on a target, each critical hit gives you 1 additional combo. Require Assassin's Determination.
+
+Executioner; {s}Increase 22% Rapid Sting Damage. Require Assassin's Determination.
+Executioner; {sub2{$1}sub2}Increase 22% Rapid Sting Damage. Require Assassin's Determination.
+
+Blind Faith; {s}Increase 4% attack damage, reduce 2% attack damage taken. Blind Faith and Assassin's Determination cannot be used at the same time.
+Blind Faith; {sub2{$1}sub2}Increase 4% attack damage, reduce 2% attack damage taken. Blind Faith and Assassin's Determination cannot be used at the same time.
+
+Shadow Blade; {s}Absorb nearby shadow to strengthen your weapon, increasing 12% Blade Strike damage. Require Blind Faith.
+Shadow Blade; {sub2{$1}sub2}Absorb nearby shadow to strengthen your weapon, increasing 12% Blade Strike damage. Require Blind Faith.
+
+Shadow of Erosion; {s}Each time you spend 1 combo, reduce the remaining CD of Blade Fury Dance by 1 second. Require Blind Faith.
+Shadow of Erosion; {sub2{$1}sub2}Each time you spend 1 combo, reduce the remaining CD of Blade Fury Dance by 1 second. Require Blind Faith.
+
+Hatred; {s}"Each time you spend 1 combo, you have a 20% chance to gain 1 extra combo. Require Blind Faith."
+Hatred; {sub2{$1}sub2}"Each time you spend 1 combo, you have a 20% chance to gain 1 extra combo. Require Blind Faith."
+
+Deadly Attack; {s}Increase 3% attack damage.
+Deadly Attack; {sub2{$1}sub2}Increase 3% attack damage.
+
+Ruthless Strike; {s}Increase 30 points of Critical Damage.
+Ruthless Strike; {sub2{$1}sub2}Increase 30 points of Critical Damage.
+
+Aspect of the Wild; {s}Increase 4% attack damage.
+Aspect of the Wild; {sub2{$1}sub2}Increase 4% attack damage.
+
+Survival Expert; {s}When you hit the target, recover HP equal to 5% damage dealt. Require Aspect of the Wild
+Survival Expert; {sub2{$1}sub2}When you hit the target, recover HP equal to 5% damage dealt. Require Aspect of the Wild
+
+Wild Rage; {s}Increase 5% attack damage. Require Aspect of the Wild
+Wild Rage; {sub2{$1}sub2}Increase 5% attack damage. Require Aspect of the Wild
+
+Call of the Wilderness; {s}When Arcane Shot deals a critical hit, resets the CD of the next Rapid Arrows. Require Aspect of the Wild
+Call of the Wilderness; {sub2{$1}sub2}When Arcane Shot deals a critical hit, resets the CD of the next Rapid Arrows. Require Aspect of the Wild
+
+Aspect of the Monkey; {s}Increase 2% attack damage and 3% dodge. Aspect of the Wild and Aspect of the Monkey cannot be used at the same time.
+Aspect of the Monkey; {sub2{$1}sub2}Increase 2% attack damage and 3% dodge. Aspect of the Wild and Aspect of the Monkey cannot be used at the same time.
+
+Sniper Training; {s}Increase 11% Defense Break Chance. Require Aspect of the Monkey.
+Sniper Training; {sub2{$1}sub2}Increase 11% Defense Break Chance. Require Aspect of the Monkey.
+
+Steady Hands; {s}When you cast Aimed Shot, increase 22% damage of the next attack. Require Aspect of the Monkey.
+Steady Hands; {sub2{$1}sub2}When you cast Aimed Shot, increase 22% damage of the next attack. Require Aspect of the Monkey.
+
+Hunter's Mark; {s}Increases the chance of marking a target when attacks hit. Require Aspect of the Monkey.
+Hunter's Mark; {sub2{$1}sub2}Increases the chance of marking a target when attacks hit. Require Aspect of the Monkey.
+
+Aspect of the Cheetah; {s}Increase 5% movement speed.
+Aspect of the Cheetah; {sub2{$1}sub2}Increase 5% movement speed.
+
+Aspect of the Hawk; {s}Increase 11 points of Critical Hit, 12 points of Critical Damage and 1% attack damage.
+Aspect of the Hawk; {sub2{$1}sub2}Increase 11 points of Critical Hit, 12 points of Critical Damage and 1% attack damage.
+
+Ice Lineage; {s}Increase 2% attack damage, reduce 2% attack damage taken.
+Ice Lineage; {sub2{$1}sub2}Increase 2% attack damage, reduce 2% attack damage taken.
+
+Desolate Winter; {s}Increase 22% Ice Lance Damage, require Ice Lineage.
+Desolate Winter; {sub2{$1}sub2}Increase 22% Ice Lance Damage, require Ice Lineage.
+
+Ice Finger; {s}When Ice Arrow and Ice Orb deal Critical Hits, or when Ice Arrow hits a target affected by Aqua Jet, the target will be Condensed. Dealing damage to the target will break its Condensed effect. Require Ice Lineage.
+Ice Finger; {sub2{$1}sub2}When Ice Arrow and Ice Orb deal Critical Hits, or when Ice Arrow hits a target affected by Aqua Jet, the target will be Condensed. Dealing damage to the target will break its Condensed effect. Require Ice Lineage.
+
+Chilling Cold; {s}Every time your attack hits the target, your attack damage is increased by 1% for 15 seconds. Require Ice Lineage.
+Chilling Cold; {sub2{$1}sub2}Every time your attack hits the target, your attack damage is increased by 1% for 15 seconds. Require Ice Lineage.
+
+Cold Lineage; {s}Increase 4% attack damage, reduce 2% attack damage taken. Ice Lineage and Cold Lineage cannot be used at the same time.
+Cold Lineage; {sub2{$1}sub2}Increase 4% attack damage, reduce 2% attack damage taken. Ice Lineage and Cold Lineage cannot be used at the same time.
+
+Freezing Cold; {s}Increase cast speed and reduce the CD of Ice Storm by 1.5 seconds. Require Cold Lineage.
+Freezing Cold; {sub2{$1}sub2}Increase cast speed and reduce the CD of Ice Storm by 1.5 seconds. Require Cold Lineage.
+
+Crisp Wisdom; {s}When your attack deals a Critical Hit, resets the CD of Ice Orb. Require Cold Lineage.
+Crisp Wisdom; {sub2{$1}sub2}When your attack deals a Critical Hit, resets the CD of Ice Orb. Require Cold Lineage.
+
+Ice Spirit; {s}Increase 2% attack damage and 9% Defense Break Chance. Require Cold Lineage.
+Ice Spirit; {sub2{$1}sub2}Increase 2% attack damage and 9% Defense Break Chance. Require Cold Lineage.
+
+Frost Armor; {s}Increase 20 points of Toughness and 5 points of Critical Hit Resist.
+Frost Armor; {sub2{$1}sub2}Increase 20 points of Toughness and 5 points of Critical Hit Resist.
+
+Frost Lineage; {s}Increase 4% damage.
+Frost Lineage; {sub2{$1}sub2}Increase 4% damage.
+
+Elven Fire; {s}Increase 3% attack damage, reduce 2% attack damage taken.
+Elven Fire; {sub2{$1}sub2}Increase 3% attack damage, reduce 2% attack damage taken.
+
+Enhanced Fireworks; {s}Every time Fireball doesn't deal a Critical Hit to the target, it increases 10 points of Critical Hit. The effect ends when Fireball deals a Critical Hit. Require Elven Fire.
+Enhanced Fireworks; {sub2{$1}sub2}Every time Fireball doesn't deal a Critical Hit to the target, it increases 10 points of Critical Hit. The effect ends when Fireball deals a Critical Hit. Require Elven Fire.
+
+Blazing Combo; {s}When your direct damage spell deals a critical hit and two consecutive damage spells deal critical hits, your next Pyroblast or Blazing Storm can be cast instantaneously. Require Elven Fire.
+Blazing Combo; {sub2{$1}sub2}When your direct damage spell deals a critical hit and two consecutive damage spells deal critical hits, your next Pyroblast or Blazing Storm can be cast instantaneously. Require Elven Fire.
+
+Blessing of Flame; {s}Increase 12% Blazing Storm Damage. Require Elven Fire.
+Blessing of Flame; {sub2{$1}sub2}Increase 12% Blazing Storm Damage. Require Elven Fire.
+
+Hellfire; {s}Increase 5% attack damage. Elven Fire and Hellfire cannot be used at the same time.
+Hellfire; {sub2{$1}sub2}Increase 5% attack damage. Elven Fire and Hellfire cannot be used at the same time.
+
+Energized Fireball; {s}When you have over 80% MP, casting Fireball will activate Energized Fireball. Whenever you cast Fireball, Energized Fireball will cost 20% mana to increase 40% damage of your next Fireball, stacks 5 times at max. The effect ends when you don't have enough mana. Require Hellfire.
+Energized Fireball; {sub2{$1}sub2}When you have over 80% MP, casting Fireball will activate Energized Fireball. Whenever you cast Fireball, Energized Fireball will cost 20% mana to increase 40% damage of your next Fireball, stacks 5 times at max. The effect ends when you don't have enough mana. Require Hellfire.
+
+Mana Expert; {s}When your MP is below 20%, recover 70% MP automatically. This Skill can only be activated once every 3 minutes. Require Hellfire.
+Mana Expert; {sub2{$1}sub2}When your MP is below 20%, recover 70% MP automatically. This Skill can only be activated once every 3 minutes. Require Hellfire.
+
+Heart of Heat; {s}Increase 28% Fire Impact damage. Require Hellfire.
+Heart of Heat; {sub2{$1}sub2}Increase 28% Fire Impact damage. Require Hellfire.
+
+Elven Dance; {s}Increase 11 points of dodge.
+Elven Dance; {sub2{$1}sub2}Increase 11 points of dodge.
+
+Flame Combo; {s}When your Fireball deals a Critical Hit, resets the CD of Fire Impact.
+Flame Combo; {sub2{$1}sub2}When your Fireball deals a Critical Hit, resets the CD of Fire Impact.
+
+Justice; {s}Increase 5% attack damage.
+Justice; {sub2{$1}sub2}Increase 5% attack damage.
+
+Holy Light Echo; {s}Your direct healing spells will have an additional 8% healing effect. Require Justice.
+Holy Light Echo; {sub2{$1}sub2}Your direct healing spells will have an additional 8% healing effect. Require Justice.
+
+Wisdom; {s}When your attack deals a Critical Hit, resets the CD of Divine Nova. Require Justice.
+Wisdom; {sub2{$1}sub2}When your attack deals a Critical Hit, resets the CD of Divine Nova. Require Justice.
+
+Skilled Healer; {s}When you cast Light of Miracles after Healing Prayers, increase 22% healing effect of Light of Miracles. Require Justice.
+Skilled Healer; {sub2{$1}sub2}When you cast Light of Miracles after Healing Prayers, increase 22% healing effect of Light of Miracles. Require Justice.
+
+Shelter; {s}Increase 3% attack damage, reduce 4% of all damage taken.
+Shelter; {sub2{$1}sub2}Increase 3% attack damage, reduce 4% of all damage taken.
+
+Divine Whip; {s}Increase 24% Divine Whip Damage. Targets attacked by Divine Whip will suffer an additional 8% damage from Divine Nova. Require Shelter.
+Divine Whip; {sub2{$1}sub2}Increase 24% Divine Whip Damage. Targets attacked by Divine Whip will suffer an additional 8% damage from Divine Nova. Require Shelter.
+
+Confession; {s}Increase 12% of all healing effects transformed through Redemption. Require Shelter.
+Confession; {sub2{$1}sub2}Increase 12% of all healing effects transformed through Redemption. Require Shelter.
+
+Divine Reincarnation; {s}When you resurrect an ally using Resurrection, your damage is increased by 30% and all your damage taken is reduced by 30% for 20 seconds. Require Shelter.
+Divine Reincarnation; {sub2{$1}sub2}When you resurrect an ally using Resurrection, your damage is increased by 30% and all your damage taken is reduced by 30% for 20 seconds. Require Shelter.
+
+Holy Light Protection; {s}Increase 5 points of Dodge and 5 points of critical hit resist.
+Holy Light Protection; {sub2{$1}sub2}Increase 5 points of Dodge and 5 points of critical hit resist.
+
+Ring of Life; {s}When your HP is below 30%, Ring of Life can cost 1% mana to recover 1% HP per second.
+Ring of Life; {sub2{$1}sub2}When your HP is below 30%, Ring of Life can cost 1% mana to recover 1% HP per second.
+
+Soul Link; {s}Reduce 4% of all damage taken.
+Soul Link; {sub2{$1}sub2}Reduce 4% of all damage taken.
+
+Enhanced Explosion; {s}If the target is suffering from corrosion damage of Corrosion Spell, then Skeleton Explosion always Critical Hit. Require Soul Link.
+Enhanced Explosion; {sub2{$1}sub2}If the target is suffering from corrosion damage of Corrosion Spell, then Skeleton Explosion always Critical Hit. Require Soul Link.
+
+Rushing Tide; {s}Casting Healing Chain will increase 15% healing effect of the next Healing Surge. Require Soul Link.
+Rushing Tide; {sub2{$1}sub2}Casting Healing Chain will increase 15% healing effect of the next Healing Surge. Require Soul Link.
+
+Dead Toxin Surge; {s}When your Shadow Arrow deals a Critical Hit, resets the CD of Dead Toxin. Require Soul Link.
+Dead Toxin Surge; {sub2{$1}sub2}When your Shadow Arrow deals a Critical Hit, resets the CD of Dead Toxin. Require Soul Link.
+
+Soul Harmony; {s}Increase 3% attack damage, reduce 3% of all damage taken.
+Soul Harmony; {sub2{$1}sub2}Increase 3% attack damage, reduce 3% of all damage taken.
+
+Spiritual Concentration; {s}When your direct damage spells deal critical hit, increase 30% of spell damage and healing effect for 4 seconds. Require Soul Harmony.
+Spiritual Concentration; {sub2{$1}sub2}When your direct damage spells deal critical hit, increase 30% of spell damage and healing effect for 4 seconds. Require Soul Harmony.
+
+Extensive Heal; {s}Increase up to 20% spell healing effect depending on the target's current HP. The lower the target HP, the higher the healing effect. Require Soul Harmony.
+Extensive Heal; {sub2{$1}sub2}Increase up to 20% spell healing effect depending on the target's current HP. The lower the target HP, the higher the healing effect. Require Soul Harmony.
+
+Soul Insight; {s}Reduce the CD of Soul Returnal by 5 minutes. When you resurrect an ally with Soul Returnal, reset the CD of all Totem Skills. Require Soul Harmony.
+Soul Insight; {sub2{$1}sub2}Reduce the CD of Soul Returnal by 5 minutes. When you resurrect an ally with Soul Returnal, reset the CD of all Totem Skills. Require Soul Harmony.
+
+Wrath of Wraith; {s}Increase 150 points of Critical Damage.
+Wrath of Wraith; {sub2{$1}sub2}Increase 150 points of Critical Damage.
+
+Jungle Perseverance; {s}Increase 10 points of Toughness and 10 points of critical hit resist.
+Jungle Perseverance; {sub2{$1}sub2}Increase 10 points of Toughness and 10 points of critical hit resist.
+
+Imperious; {s}Increase 2% attack damage.
+Imperious; {sub2{$1}sub2}Increase 2% attack damage.
+
+Focus; {s}Increase 4 points of hit chance.
+Focus; {sub2{$1}sub2}Increase 4 points of hit chance.
+
+Ravage; {s}Increase 49 points of Defense Break Chance.
+Ravage; {sub2{$1}sub2}Increase 49 points of Defense Break Chance.
+
+Havoc; {s}Increase 25 points of Defense Break Chance and 40 points of Defense Break Damage.
+Havoc; {sub2{$1}sub2}Increase 25 points of Defense Break Chance and 40 points of Defense Break Damage.
+
+Anger; {s}Increase 7 points of Critical Hit.
+Anger; {sub2{$1}sub2}Increase 7 points of Critical Hit.
+
+Brutal; {s}Increase 5 points of Critical Hit and 11 points of Critical Damage.
+Brutal; {sub2{$1}sub2}Increase 5 points of Critical Hit and 11 points of Critical Damage.
+
+Shielded; {s}Reduce 3% of all damage taken.
+Shielded; {sub2{$1}sub2}Reduce 3% of all damage taken.
+
+Dexterous; {s}Increase 6 points of dodge.
+Dexterous; {sub2{$1}sub2}Increase 6 points of dodge.
+
+Tough; {s}Increase 30 points of Toughness.
+Tough; {sub2{$1}sub2}Increase 30 points of Toughness.
+
+Tai chi; {s}Increase 10 points of critical hit resist.
+Tai chi; {sub2{$1}sub2}Increase 10 points of critical hit resist.
+
+Havoc (Aggressive); {s}Increase 2% attack damage. Increase 2 points of Defense Break Chance and 10 points of Defense Break Damage.
+Havoc (Aggressive); {sub2{$1}sub2}Increase 2% attack damage. Increase 2 points of Defense Break Chance and 10 points of Defense Break Damage.
+
+Tough (Aggressive); {s}Increase 2% attack damage. Increase 5 points of Toughness.
+Tough (Aggressive); {sub2{$1}sub2}Increase 2% attack damage. Increase 5 points of Toughness.
+
+Tai chi (Aggressive); {s}Increase 2% attack damage. Increase 1 point of critical hit resist.
+Tai chi (Aggressive); {sub2{$1}sub2}Increase 2% attack damage. Increase 1 point of critical hit resist.
+
+Focus (Defensive); {s}Reduce 2% of all damage taken. Increase 2 points of hit chance.
+Focus (Defensive); {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 2 points of hit chance.
+
+Ravage (Defensive); {s}Reduce 2% of all damage taken. Increase 16 points of Defense Break Chance.
+Ravage (Defensive); {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 16 points of Defense Break Chance.
+
+Havoc (Defensive); {s}Reduce 2% of all damage taken. Increase 12 points of Defense Break Chance and 17 points of Defense Break Damage.
+Havoc (Defensive); {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 12 points of Defense Break Chance and 17 points of Defense Break Damage.
+
+Anger (Defensive); {s}Reduce 2% of all damage taken. Increase 3 points of Critical Hit.
+Anger (Defensive); {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 3 points of Critical Hit.
+
+Brutal (Defensive); {s}Reduce 2% of all damage taken. Increase 2 points of Critical Hit and 6 points of Critical Damage.
+Brutal (Defensive); {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 2 points of Critical Hit and 6 points of Critical Damage.
+
+Dexterous (Defensive); {s}Reduce 2% of all damage taken. Increase 3 points of dodge.
+Dexterous (Defensive); {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 3 points of dodge.
+
+Tough (Defensive); {s}Reduce 3% of all damage taken. Increase 5 points of Toughness.
+Tough (Defensive); {sub2{$1}sub2}Reduce 3% of all damage taken. Increase 5 points of Toughness.
+
+Tai chi (Defensive); {s}Reduce 2% of all damage taken. Increase 4 points of critical hit resist.
+Tai chi (Defensive); {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 4 points of critical hit resist.
+
+Focus (Aggressive); {s}Increase 2% attack damage and 1 point of hit chance.
+Focus (Aggressive); {sub2{$1}sub2}Increase 2% attack damage and 1 point of hit chance.
+
+Ravage (Aggressive); {s}Increase 2% attack damage and 7 point of Defense Break Chance.
+Ravage (Aggressive); {sub2{$1}sub2}Increase 2% attack damage and 7 point of Defense Break Chance.
+
+Brutal (Aggressive); {s}Increase 2% attack damage. Increase 1 points of Critical Hit and 2 points of Critical Damage.
+Brutal (Aggressive); {sub2{$1}sub2}Increase 2% attack damage. Increase 1 points of Critical Hit and 2 points of Critical Damage.
+
+Anger (Aggressive); {s}Increase 2% attack damage and 2 points of Critical Hit.
+Anger (Aggressive); {sub2{$1}sub2}Increase 2% attack damage and 2 points of Critical Hit.
+
+Tough (Aggressive)-2; {s}Increase 2% attack damage. Increase 9 points of Toughness.
+Tough (Aggressive)-2; {sub2{$1}sub2}Increase 2% attack damage. Increase 9 points of Toughness.
+
+Ravage (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 19 points of Defense Break Chance.
+Ravage (Defensive)-2; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 19 points of Defense Break Chance.
+
+Havoc (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 15 points of Defense Break Chance and 21 points of Defense Break Damage.
+Havoc (Defensive)-2; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 15 points of Defense Break Chance and 21 points of Defense Break Damage.
+
+Brutal (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 3 points of Critical Hit and 5 points of Critical Damage.
+Brutal (Defensive)-2; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 3 points of Critical Hit and 5 points of Critical Damage.
+
+Dexterous (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 4 points of dodge.
+Dexterous (Defensive)-2; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 4 points of dodge.
+
+Tough (Defensive)-2; {s}Reduce 3% of all damage taken. Increase 9 points of Toughness.
+Tough (Defensive)-2; {sub2{$1}sub2}Reduce 3% of all damage taken. Increase 9 points of Toughness.
+
+Tai chi (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 5 points of critical hit resist.
+Tai chi (Defensive)-2; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 5 points of critical hit resist.
+
+Ravage (Aggressive)-2; {s}Increase 2% attack damage and 10 point of Defense Break Chance.
+Ravage (Aggressive)-2; {sub2{$1}sub2}Increase 2% attack damage and 10 point of Defense Break Chance.
+
+Havoc (Aggressive)-3; {s}Increase 2% attack damage. Increase 8 points of Defense Break Chance and 18 points of Defense Break Damage.
+Havoc (Aggressive)-3; {sub2{$1}sub2}Increase 2% attack damage. Increase 8 points of Defense Break Chance and 18 points of Defense Break Damage.
+
+Anger (Aggressive); {s}Increase 2% attack damage and 2 points of Critical Hit.
+Anger (Aggressive); {sub2{$1}sub2}Increase 2% attack damage and 2 points of Critical Hit.
+
+Tough (Aggressive)-3; {s}Increase 2% attack damage. Increase 14 points of Toughness.
+Tough (Aggressive)-3; {sub2{$1}sub2}Increase 2% attack damage. Increase 14 points of Toughness.
+
+Tai chi (Aggressive)-2; {s}Increase 2% attack damage. Increase 3 point of critical hit resist.
+Tai chi (Aggressive)-2; {sub2{$1}sub2}Increase 2% attack damage. Increase 3 point of critical hit resist.
+
+Ravage (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 22 points of Defense Break Chance.
+Ravage (Defensive)-3; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 22 points of Defense Break Chance.
+
+Havoc (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 18 points of Defense Break Chance and 25 points of Defense Break Damage.
+Havoc (Defensive)-3; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 18 points of Defense Break Chance and 25 points of Defense Break Damage.
+
+Anger (Defensive)-2; {s}Reduce 2% of all damage taken. Increase 4 points of Critical Hit.
+Anger (Defensive)-2; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 4 points of Critical Hit.
+
+Dexterous (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 5 points of dodge.
+Dexterous (Defensive)-3; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 5 points of dodge.
+
+Tough (Defensive)-3; {s}Reduce 3% of all damage taken. Increase 14 points of Toughness.
+Tough (Defensive)-3; {sub2{$1}sub2}Reduce 3% of all damage taken. Increase 14 points of Toughness.
+
+Tai chi (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 6 points of critical hit resist.
+Tai chi (Defensive)-3; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 6 points of critical hit resist.
+
+Focus (Aggressive)-2; {s}Increase 2% attack damage and 5 point of hit chance.
+Focus (Aggressive)-2; {sub2{$1}sub2}Increase 2% attack damage and 5 point of hit chance.
+
+Ravage (Aggressive)-3; {s}Increase 2% attack damage and 14 point of Defense Break Chance.
+Ravage (Aggressive)-3; {sub2{$1}sub2}Increase 2% attack damage and 14 point of Defense Break Chance.
+
+Havoc (Aggressive)-4; {s}Increase 2% attack damage. Increase 11 points of Defense Break Chance and 20 points of Defense Break Damage.
+Havoc (Aggressive)-4; {sub2{$1}sub2}Increase 2% attack damage. Increase 11 points of Defense Break Chance and 20 points of Defense Break Damage.
+
+Tough (Aggressive)-4; {s}Increase 2% attack damage. Increase 18 points of Toughness.
+Tough (Aggressive)-4; {sub2{$1}sub2}Increase 2% attack damage. Increase 18 points of Toughness.
+
+Ravage (Defensive)-4; {s}Reduce 2% of all damage taken. Increase 26 points of Defense Break Chance.
+Ravage (Defensive)-4; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 26 points of Defense Break Chance.
+
+Havoc (Defensive)-4; {s}Reduce 2% of all damage taken. Increase 21 points of Defense Break Chance and 28 points of Defense Break Damage.
+Havoc (Defensive)-4; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 21 points of Defense Break Chance and 28 points of Defense Break Damage.
+
+Brutal (Defensive)-3; {s}Reduce 2% of all damage taken. Increase 4 points of Critical Hit and 6 points of Critical Damage.
+Brutal (Defensive)-3; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 4 points of Critical Hit and 6 points of Critical Damage.
+
+Dexterous (Defensive)-4; {s}Reduce 2% of all damage taken. Increase 6 points of dodge.
+Dexterous (Defensive)-4; {sub2{$1}sub2}Reduce 2% of all damage taken. Increase 6 points of dodge.
+
+Tough (Defensive)-4; {s}Reduce 3% of all damage taken. Increase 18 points of Toughness.
+Tough (Defensive)-4; {sub2{$1}sub2}Reduce 3% of all damage taken. Increase 18 points of Toughness.

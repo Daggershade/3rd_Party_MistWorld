@@ -1,0 +1,2 @@
+{s}Ghost Robe; durability {d} of 20.0; enhance Level {d}; quality {s} ; strengthen physical Defense {d}-{d} magic Defense {d}-{d};{s} available for witcher ; level 45; weight 75; Concentrate the power of the dead to protect you.
+{sub2{$1}sub2}Ghost Robe; durability $2 of 20.0; enhance Level $3; quality {sub2{$4}sub2} ; strengthen physical Defense $5-$6 magic Defense $7-$8;{sub2{$9}sub2} available for witcher ; level 45; weight 75; Concentrate the power of the dead to protect you.

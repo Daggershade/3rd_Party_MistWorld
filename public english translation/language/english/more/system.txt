@@ -75,3 +75,6 @@ Happiness Blessing
 
 {d};You and {c} become friends now.
 $1;You and $2 have become friends.
+
+{d};New; You and {c} become friends now.
+$1;New; You and $2 have become friends.

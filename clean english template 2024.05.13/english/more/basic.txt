@@ -80,7 +80,7 @@ Total Healing: $1
 Debuff and Control: $1
 
 增益输出{d}
-Buffs: $1
+Buff: $1
 
 解损益数{d}
 Debuffs Removed: $1
@@ -89,7 +89,7 @@ Debuffs Removed: $1
 Buffs Removed: $1
 
 复活人数{d}
-Resurrection Count: $1
+Resurrection Counts: $1
 
 {d}血量
 ;$1 HP
@@ -177,9 +177,3 @@ $1 remains
 
 与{s}聊天
 Chat with $1
-
-Private chatI said: {s}
-Private chat I said: $1
-
-Private chat{c} says:{s}
-Private chat $1 says: $2
