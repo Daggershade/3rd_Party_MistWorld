@@ -78,3 +78,9 @@ $1;You and $2 have become friends.
 
 {d};New; You and {c} become friends now.
 $1;New; You and $2 have become friends.
+
+{s};{c} kneeled on the ground, put right hand against his chest, looked up at his bride, and said affectionately:{s}
+{sub2{$1}sub2};$2 kneels on the ground, puts his right hand against his chest, looks up at his bride, and affectionately says:$3
+
+{s};{c} reached out and took the bridegroom, clasped her hands with him, stood close together, looked at him affectionately and said:{s}
+{sub2{$1}sub2};$2 reaches out toward the groom, clasps her hands with his, leans close with a look of affection, and says:$3

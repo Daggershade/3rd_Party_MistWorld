@@ -1,4 +1,7 @@
 Recent Changes
+2024/05/24
+Added translations for the wedding vow constants.
+
 2024/05/13
 sroath's modifications
 Added the new channel system's translated lines to the basic.txt file

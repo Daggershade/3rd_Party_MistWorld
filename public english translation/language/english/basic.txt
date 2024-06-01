@@ -179,7 +179,7 @@ IP registration is too frequent!
 Server error!
 
 删除角色
-delete character
+ delete character
 
 发送邮箱验证码(&S)
 Send Email Verification Code (&S)
@@ -588,9 +588,6 @@ damage:
 
 最高群体伤害输出玩家:
 Player with the highest group damage output: 
-
-伤害值:
-damage: 
 
 最高单疗伤输出玩家:
 Player with the highest individual healing output: 
@@ -1023,9 +1020,6 @@ Enter your nickname; it needs to be between 4 and 12 characters
 
 上次进入：
 last access: 
-
-删除角色
- delete character
 
 该角色十天内登录过,不能删除!
 This character has been logged in in the last ten days, and cannot be deleted!
